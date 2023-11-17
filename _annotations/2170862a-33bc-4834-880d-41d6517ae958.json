@@ -1,0 +1,37 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page9"
+order: 3
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Chowdry Hameer Singh left a son named Jusswem[?] Singh \nwho succeeded his father. He went to Dehlie and through means of Mr Seton then resident, paid his respects to the King from whom he obtained the title of Rajah. He became a greater man than his ancestors and is now in his family seat at Nabah.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2023-11-17T17:02:58.122Z",
+            "modified": "2023-11-17T17:03:06.006Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page9",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1207.5474853515625,2444.9814453125 1215.52783203125,4523.86474609375 4565.2822265625,4561.77099609375 4559.29736328125,2083.870361328125 2763.717041015625,2053.944091796875 2769.7021484375,2442.986328125\"></polygon></svg>"
+        }
+    },
+    "id": "2170862a-33bc-4834-880d-41d6517ae958.json",
+    "motivation": "commenting"
+}
