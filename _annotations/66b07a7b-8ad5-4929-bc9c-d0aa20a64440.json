@@ -1,0 +1,37 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page12"
+order: 3
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "When Tulook Chund and Ram Chund resided in the village of Phool, the flocks of the former were more numerous than those of the latter.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2023-11-17T20:11:04.126Z",
+            "modified": "2023-11-17T20:11:04.804Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page12",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"302.7,2496.3 295.8,3625.2 1106.8,3629.4 1106.8,3403.6 3568.6,3416.8 3590.7,2487\"></polygon></svg>"
+        }
+    },
+    "id": "66b07a7b-8ad5-4929-bc9c-d0aa20a64440.json",
+    "motivation": "commenting"
+}
