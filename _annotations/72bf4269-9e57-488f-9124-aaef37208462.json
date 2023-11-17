@@ -4,20 +4,21 @@ order: 4
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Sookh Chien Singh, the younger son of Chowdry Tulook Chund left 2 sons, Alum Singh and Guyput Singh. Alum Singh died without an heir. Guyput Singh succeeded ",
-            "purpose": "commenting",
+            "created": "2023-11-17T17:03:59.646Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-17T17:03:59.646Z",
-            "modified": "2023-11-17T17:04:01.898Z"
+            "modified": "2023-11-17T17:04:01.898Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Sookh Chien Singh, the younger son of Chowdry Tulook Chund left 2 sons, Alum Singh and Guyput Singh. Alum Singh died without an heir. Guyput Singh succeeded "
         }
     ],
+    "id": "72bf4269-9e57-488f-9124-aaef37208462.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -29,9 +30,8 @@ order: 4
         },
         "selector": {
             "type": "SvgSelector",
-            "value": "<svg><polygon points=\"1215.5277099609375,4543.8154296875 1219.5179443359375,5864.564453125 3675.472412109375,5892.49560546875 3675.472412109375,6191.7587890625 4585.2333984375,6209.71484375 4585.2333984375,4575.73681640625\"></polygon></svg>"
+            "value": "<svg><polygon points=\"1215.5,4543.8 1221.5,5886.5 3675.5,5892.5 3675.5,6191.8 4597.2,6197.7 4585.2,4575.7\"></polygon></svg>"
         }
     },
-    "id": "72bf4269-9e57-488f-9124-aaef37208462.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
