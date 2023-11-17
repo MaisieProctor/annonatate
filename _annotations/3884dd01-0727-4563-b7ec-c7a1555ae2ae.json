@@ -1,0 +1,36 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page13"
+order: 2
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "There arose a dispute between the King\u2019s Hakims of Surhund and Hansee. Ram Chund took advantage of it, and began to collect revenue and exact presents from the surrounding villages; ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2023-11-17T20:15:32.010Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page13",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1285.4283447265625,3067.284423828125 1282.1939697265625,4313.77734375 3551.71484375,4314.17529296875 3547.286865234375,4017.51318359375 4636.52392578125,4039.652099609375 4627.66845703125,2839.72021484375 2843.267822265625,2822.009033203125 2843.267822265625,3069.96533203125\"></polygon></svg>"
+        }
+    },
+    "id": "3884dd01-0727-4563-b7ec-c7a1555ae2ae.json",
+    "motivation": "commenting"
+}
