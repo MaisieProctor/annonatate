@@ -1,0 +1,37 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page6"
+order: 4
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Among the sect of Berar Beans abovementioned, there was a person called Mihraj Rais of the Village of Beedoowal in the Purgunnah of Buttindah, who possessed great ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2023-11-17T15:51:11.440Z",
+            "modified": "2023-11-17T15:51:13.666Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page6",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"202.4,4529.9 210.4,6247.6 3506.3,6241.6 3524.2,4224.6 3099.3,4224.6 3105.2,4565.8\"></polygon></svg>"
+        }
+    },
+    "id": "366d8723-e3e0-4de4-9e83-657dacb6f293.json",
+    "motivation": "commenting"
+}
