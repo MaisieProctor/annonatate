@@ -1,0 +1,36 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page13"
+order: 3
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Ram Chund like the rest of his family believed in the tenets of Gooroo Govind Singh. He had 6 sons, Alha Singh, Soobha Singh, Bukht Mull, Doona Singh, Budha and Sudha. The name of Sudha was afterwards changed to Ram Singh and ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2023-11-17T20:16:33.171Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page13",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1284.1,4334.2 1282,5941.3 4121.7,5953.3 4126.1,6223.4 4635.3,6227.9 4630.9,4036.1 3554.9,4018.4 3559.3,4332.8\"></polygon></svg>"
+        }
+    },
+    "id": "15124fcd-ec77-4e0d-83f3-c6369d4c86f3.json",
+    "motivation": "commenting"
+}
