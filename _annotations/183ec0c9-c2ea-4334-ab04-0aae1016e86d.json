@@ -1,38 +1,30 @@
 ---
-canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page7"
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~444004~286491page7"
 order: 3
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Mohun had 5 sons, Roolp Chund, Kala Kurm Chund, Gool \nChund and Seeman. Roolp succeeded his father and had 2 sons, Phool and Sundula. Phool succeeded his father and his friends and relations submitted his authority. Phool married Bala daughter of",
-            "purpose": "commenting",
+            "created": "2023-11-17T15:54:21.305Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-17T15:54:21.305Z",
-            "modified": "2023-11-17T15:54:26.330Z"
+            "modified": "2023-11-17T15:54:26.330Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Mohun had 5 sons, Roolp Chund, Kala Kurm Chund, Gool \nChund and Seeman. Roolp succeeded his father and had 2 sons, Phool and Sundula. Phool succeeded his father and his friends and relations submitted his authority. Phool married Bala daughter of"
         }
     ],
+    "id": "183ec0c9-c2ea-4334-ab04-0aae1016e86d.json",
+    "motivation": "commenting",
     "target": {
-        "source": {
-            "partOf": {
-                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
-                "type": "Manifest"
-            },
-            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page7",
-            "type": "Canvas"
-        },
+        "source": "https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~444004~286491page7",
         "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1251.4390869140625,3957.258544921875,3375.6907958984375,2003.069580078125"
+            "value": "<svg><polygon points=\"NaN,3957.258544921875 NaN,3957.258544921875 NaN,3957.258544921875 NaN,4908.9163818359375 NaN,5860.57421875 NaN,5860.57421875 NaN,5860.57421875 NaN,4908.9163818359375\"></polygon></svg>",
+            "type": "SvgSelector"
         }
     },
-    "id": "183ec0c9-c2ea-4334-ab04-0aae1016e86d.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
