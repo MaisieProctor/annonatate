@@ -1,0 +1,36 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page12"
+order: 4
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "It is related that Bhaee Mool Chund a holy faqueer brought a young Buffaloe [sic] to Phool and taking it to the house of Chowdry Tulook Chund he requested it might be put among his flocs and nourished. ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2023-11-17T20:11:54.283Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page12",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"291.9399108886719,3645.753662109375 280.4726257324219,4881.35009765625 2631.215576171875,4900.89453125 2631.215576171875,4652.93798828125 3543.341064453125,4683.9326171875 3561.05224609375,3426.439453125 1112.482666015625,3408.728271484375 1112.482666015625,3647.8291015625\"></polygon></svg>"
+        }
+    },
+    "id": "ff7a877b-5597-4bae-894c-98a18deac23e.json",
+    "motivation": "commenting"
+}
