@@ -4,20 +4,21 @@ order: 3
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "The other children sunk into insignificance remaining contented with the Village of Goomtee. They and their descendants were known by the title of Choteh Gheneeh (small family).",
-            "purpose": "commenting",
+            "created": "2023-11-17T16:56:03.202Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-17T16:56:03.202Z",
-            "modified": "2023-11-17T16:56:10.632Z"
+            "modified": "2023-11-17T16:56:10.632Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "The other children sunk into insignificance remaining contented with the Village of Goomtee. They and their descendants were known by the title of Choteh Gheneeh (small family)."
         }
     ],
+    "id": "f40a4f60-7da7-45b7-91f1-6b56408036a7.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -29,9 +30,8 @@ order: 3
         },
         "selector": {
             "type": "SvgSelector",
-            "value": "<svg><polygon points=\"286.2,2995.6 274.2,4216.6 3594,4280.5 3630,2736.3 2337.1,2718.3 2337.1,3017.6\"></polygon></svg>"
+            "value": "<svg><polygon points=\"286.2,2995.6 252.3,4214.6 3610,4220.6 3630,2736.3 2337.1,2718.3 2337.1,3017.6\"></polygon></svg>"
         }
     },
-    "id": "f40a4f60-7da7-45b7-91f1-6b56408036a7.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
