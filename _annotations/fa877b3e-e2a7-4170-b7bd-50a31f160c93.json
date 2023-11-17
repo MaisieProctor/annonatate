@@ -1,0 +1,38 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page7"
+order: 2
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "At the death of Mihraj Rais of Bedowal, sirdar Luntoo his eldest son succeeded him, he was succeeded by his son Bheekoo, who was succeeded by his son Mohun, about the time Shah Jehan sirdar Mohun leaving Bedowal built a village which he named Mihraj and became the \ndesciple of Gooroo Govind Singh.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2023-11-17T15:53:17.271Z",
+            "modified": "2023-11-17T15:53:21.672Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page7",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1267.39990234375,1439.4566650390625,3355.73974609375,2489.8712158203125"
+        }
+    },
+    "id": "fa877b3e-e2a7-4170-b7bd-50a31f160c93.json",
+    "motivation": "commenting"
+}
