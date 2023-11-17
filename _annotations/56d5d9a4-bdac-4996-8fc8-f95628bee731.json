@@ -1,0 +1,36 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page14"
+order: 3
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Choorhe Singh after the death of Bugha Singh became Surdar of Phudoor. He turned his brother Mohun Singh out of the town, who complained of his treatment to Sahib Singh of Putteealah, by whose means he obtained his share of paternal property. ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2023-11-17T20:19:04.142Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page14",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"210.2,2696.7 205.6,4517.8 2379.8,4543.1 2375.4,4281.8 3495.6,4312.8 3513.3,2475.3 2627.8,2462 2632.2,2718.8\"></polygon></svg>"
+        }
+    },
+    "id": "56d5d9a4-bdac-4996-8fc8-f95628bee731.json",
+    "motivation": "commenting"
+}
