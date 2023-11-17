@@ -4,20 +4,21 @@ order: 4
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Their posterity to the present day inhabit the village of Goomtee.",
-            "purpose": "commenting",
+            "created": "2023-11-17T16:56:47.994Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-17T16:56:47.994Z",
-            "modified": "2023-11-17T16:56:48.657Z"
+            "modified": "2023-11-17T16:56:48.657Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Their posterity to the present day inhabit the village of Goomtee."
         }
     ],
+    "id": "007f1b32-e92a-4519-a267-22647249e002.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -30,9 +31,8 @@ order: 4
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=262.24761962890625,4220.61083984375,3365.7152709960938,646.4091796875"
+            "value": "xywh=262.24761962890625,4238.56640625,3339.7787475585938,628.45361328125"
         }
     },
-    "id": "007f1b32-e92a-4519-a267-22647249e002.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
