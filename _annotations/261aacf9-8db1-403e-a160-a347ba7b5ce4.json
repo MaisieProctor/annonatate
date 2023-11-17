@@ -1,0 +1,36 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page12"
+order: 5
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Tulook Chund and his wife asked him why he did not take it to Ram Chund\u2019s flocks, which the faqueer did and made the same request. Ram Chund stood ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2023-11-17T20:13:16.683Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page12",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"280.8358459472656,4902.17236328125 276.4599304199219,5902.5078125 2849.09423828125,5922.88232421875 2849.09423828125,6299.2451171875 3517.69091796875,6312.5283203125 3539.830078125,4691.9560546875 2654.271240234375,4674.24462890625 2654.271240234375,4922.201171875\"></polygon></svg>"
+        }
+    },
+    "id": "261aacf9-8db1-403e-a160-a347ba7b5ce4.json",
+    "motivation": "commenting"
+}
