@@ -4,20 +4,21 @@ order: 3
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Mohun had 5 sons, Roolp Chund, Kala Kurm Chund, Gool \nChund and Seeman. Roolp succeeded his father and had 2 sons, Phool and Sundula. Phool succeeded his father and his friends and relations submitted to his authority.",
-            "purpose": "commenting",
+            "created": "2023-11-17T15:56:17.592Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-17T15:56:17.592Z",
-            "modified": "2023-11-17T15:56:24.535Z"
+            "modified": "2023-11-17T16:48:45.078Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Mohun had 5 sons, Roolp Chund, Kala Kurm Chund, Gool \nChund and Seeman. Roolp succeeded his father and had 2 sons, Phool and Sundula. Phool succeeded his father and his friends and relations submitted to his authority. Phool married Bala daughter of"
         }
     ],
+    "id": "7f9635bc-005b-4a55-aa83-6c4abae5f42c.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -29,9 +30,8 @@ order: 3
         },
         "selector": {
             "type": "SvgSelector",
-            "value": "<svg><polygon points=\"1271.4,3953.3 1249.4,5910.5 2488.4,5916.4 2482.4,5533.4 4619.1,5551.3 4625.1,3959.3\"></polygon></svg>"
+            "value": "<svg><polygon points=\"1271.4,3953.3 1249.4,5910.5 3840.1,5917.4 3852,6288.5 4666,6288.5 4625.1,3959.3\"></polygon></svg>"
         }
     },
-    "id": "7f9635bc-005b-4a55-aa83-6c4abae5f42c.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
