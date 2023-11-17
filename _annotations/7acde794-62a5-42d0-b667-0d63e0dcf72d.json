@@ -4,21 +4,27 @@ order: 1
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "History of the Phoolkian family",
-            "purpose": "commenting",
+            "created": "2023-11-17T15:25:14.902Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-17T15:25:14.902Z",
-            "modified": "2023-11-17T15:25:19.934Z"
+            "modified": "2023-11-17T15:25:19.934Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "History of the Phoolkian family"
         }
     ],
+    "id": "7acde794-62a5-42d0-b667-0d63e0dcf72d.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=253.5731201171875,202.42214965820312,3261.2457275390625,989.6193542480469"
+        },
         "source": {
             "partOf": {
                 "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
@@ -26,13 +32,7 @@ order: 1
             },
             "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page6",
             "type": "Canvas"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=253.5731201171875,202.42214965820312,3261.2457275390625,989.6193542480469"
         }
     },
-    "id": "7acde794-62a5-42d0-b667-0d63e0dcf72d.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
