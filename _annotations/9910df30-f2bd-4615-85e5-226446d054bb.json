@@ -1,0 +1,37 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page6"
+order: 2
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "The Phoolkians have their origin from the Mihraj kian who are of the Berar Beans sect, descendants of Rajah Lal Behar.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2023-11-17T15:45:49.583Z",
+            "modified": "2023-11-17T15:46:54.959Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page6",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"204.4,1329.7 208.4,2674.4 1353.6,2682.4 1345.6,2387.1 3470.4,2405.1 3494.3,1345.7 1848.3,1333.7\"></polygon></svg>"
+        }
+    },
+    "id": "9910df30-f2bd-4615-85e5-226446d054bb.json",
+    "motivation": "commenting"
+}
