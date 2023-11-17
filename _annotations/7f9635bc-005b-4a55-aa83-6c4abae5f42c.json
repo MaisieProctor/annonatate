@@ -1,0 +1,37 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page7"
+order: 3
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Mohun had 5 sons, Roolp Chund, Kala Kurm Chund, Gool \nChund and Seeman. Roolp succeeded his father and had 2 sons, Phool and Sundula. Phool succeeded his father and his friends and relations submitted to his authority.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2023-11-17T15:56:17.592Z",
+            "modified": "2023-11-17T15:56:24.535Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page7",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1271.4,3953.3 1249.4,5910.5 2488.4,5916.4 2482.4,5533.4 4619.1,5551.3 4625.1,3959.3\"></polygon></svg>"
+        }
+    },
+    "id": "7f9635bc-005b-4a55-aa83-6c4abae5f42c.json",
+    "motivation": "commenting"
+}
