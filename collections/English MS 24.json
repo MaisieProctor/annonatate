@@ -1,0 +1,14 @@
+---
+---
+{
+    "label": "English MS 24",
+    "type": "storyboardlist",
+    "items": [
+        {
+            "board": "<iiif-storyboard annotationurl='https://maisieproctor.github.io/annonatate/annotations/manchester-91-1-444004-286491-c1-page1-list.json'></iiif-storyboard>",
+            "title": "",
+            "description": "",
+            "thumbnail": ""
+        }
+    ]
+}
