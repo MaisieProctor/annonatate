@@ -1,3 +1,9 @@
-images: []
+images:
+- added: '2023-11-17 15:05:22.740432'
+  iiif: true
+  thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~444004~286491page0/full/!1024,1024/0/default.jpg
+  title: Unknown
+  url: https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest
+  user: MaisieProctor
 settings: {}
 version: '2.1'
