@@ -1,0 +1,36 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page9"
+order: 2
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "He managed well the affairs of the Country, and added many \nvillages to the family possession.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2023-11-17T17:01:51.664Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page9",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1211.53759765625,1738.7203369140625 1207.5474853515625,2417.05078125 2771.697265625,2417.050537109375 2765.7119140625,2045.9639892578125 4567.27734375,2069.905029296875 4555.306640625,1393.56982421875 1676.393310546875,1369.6287841796875 1676.393310546875,1740.71533203125\"></polygon></svg>"
+        }
+    },
+    "id": "f2088ab0-5343-45f3-95db-eb35a73ce236.json",
+    "motivation": "commenting"
+}
