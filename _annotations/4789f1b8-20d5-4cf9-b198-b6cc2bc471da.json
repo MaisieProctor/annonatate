@@ -1,0 +1,37 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page10"
+order: 3
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Bhag Singh gave Huree Singh the village of Khunnah. Huree Singh\u2019s daughter was married to surdar Futteh Singh, son of Bhangut Singh. ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2023-11-17T17:08:18.829Z",
+            "modified": "2023-11-17T17:08:21.513Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page10",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"266.23773193359375,2708.333740234375 262.24761962890625,3689.91748046875 3615.9921875,3733.8095703125 3627.962890625,2458.947509765625 1527.134033203125,2423.035888671875 1527.134033203125,2722.29931640625\"></polygon></svg>"
+        }
+    },
+    "id": "4789f1b8-20d5-4cf9-b198-b6cc2bc471da.json",
+    "motivation": "commenting"
+}
