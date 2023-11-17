@@ -4,19 +4,20 @@ order: 4
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "It is related that Bhaee Mool Chund a holy faqueer brought a young Buffaloe [sic] to Phool and taking it to the house of Chowdry Tulook Chund he requested it might be put among his flocs and nourished. ",
-            "purpose": "commenting",
+            "created": "2023-11-17T20:11:54.283Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-17T20:11:54.283Z"
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "It is related that Bhaee Mool Chund a holy faqueer brought a young Buffaloe [sic] to Phool and taking it to the house of Chowdry Tulook Chund he requested it might be put among his flocs and nourished. "
         }
     ],
+    "id": "ff7a877b-5597-4bae-894c-98a18deac23e.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -28,9 +29,8 @@ order: 4
         },
         "selector": {
             "type": "SvgSelector",
-            "value": "<svg><polygon points=\"291.9399108886719,3645.753662109375 280.4726257324219,4881.35009765625 2631.215576171875,4900.89453125 2631.215576171875,4652.93798828125 3543.341064453125,4683.9326171875 3561.05224609375,3426.439453125 1112.482666015625,3408.728271484375 1112.482666015625,3647.8291015625\"></polygon></svg>"
+            "value": "<svg><polygon points=\"291.9,3645.8 280.5,4881.4 2631.2,4900.9 2633.3,4654.2 3547.8,4673.8 3561.1,3426.4 1112.5,3408.7 1112.5,3647.8\"></polygon></svg>"
         }
     },
-    "id": "ff7a877b-5597-4bae-894c-98a18deac23e.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
