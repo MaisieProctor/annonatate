@@ -1,0 +1,36 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page13"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "8. \nstood up and joining his hands, said he would take the greatest care of it. On the 2[n]d day a party of robbers passed near Phool with a large flock of cattle, horses, cows [etc.], Ram Chund collected a few of his retainers & pursuing them robbed them of every thing [sic]. From this period he commenced plundering and seizing the surrounding villages",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2023-11-17T20:14:39.579Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page13",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1280.689208984375,422.854248046875 1285.065185546875,3045.18017578125 2837.1103515625,3050.80126953125 2837.1103515625,2816.12841796875 4625.93896484375,2833.839599609375 4630.36669921875,425.1200256347656\"></polygon></svg>"
+        }
+    },
+    "id": "85070ecc-c776-4229-ac7c-6783a9d7bdda.json",
+    "motivation": "commenting"
+}
