@@ -1,0 +1,36 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page15"
+order: 3
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Sirdar Choohe Singh accordingly surrounded Dulal Singh\u2019s village and attacked him. The villages of Beer and Cheemah\u2019ke were seized and given to Bagh Singh ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2023-11-17T20:22:20.388Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page15",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1274.670166015625,4902.60498046875 1268.1668701171875,5921.79296875 4002.12158203125,5936.287109375 4002.12158203125,6290.51025390625 4622.0126953125,6308.2216796875 4622.0126953125,4616.8046875 3213.974365234375,4599.09326171875 3213.974365234375,4900.18310546875\"></polygon></svg>"
+        }
+    },
+    "id": "422bb028-79f2-40d4-bcc4-608e07259361.json",
+    "motivation": "commenting"
+}
