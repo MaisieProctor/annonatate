@@ -1,0 +1,36 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page14"
+order: 4
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Dul Singh the 3r[d] brother also obtained a separate share of the estate. Choorhe Singh being put to death by the Zemindars of Bogah. He left 2 sons Beer Singh and Deep Singh each of whom received",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2023-11-17T20:19:53.851Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page14",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"207.1,4537.5 209,5844.1 2753.6,5872.4 2762.4,6226.7 3493,6244.4 3497.4,4318.3 2394.9,4291.7 2399.3,4557.4\"></polygon></svg>"
+        }
+    },
+    "id": "18aedfea-3f06-4a25-9652-be54041e1fac.json",
+    "motivation": "commenting"
+}
