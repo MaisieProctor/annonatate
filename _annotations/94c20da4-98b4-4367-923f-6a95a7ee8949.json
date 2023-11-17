@@ -1,0 +1,37 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page11"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "6. \nhis second son Bhag Singh on the Guddee during his own life time. After his fathers death he greatly increased his possessions. He gave his younger brother Bhoop Singh, Bazeedpoor and other villages. Bhag Singh had 3 sons Futteh Singh, Purtab Singh & Mehtab Singh, the 2 latter died in their father\u2019s life time. \n",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2023-11-17T20:07:42.825Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page11",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1340.1466064453125,243.828369140625,3298.4744873046875,2498.416259765625"
+        }
+    },
+    "id": "94c20da4-98b4-4367-923f-6a95a7ee8949.json",
+    "motivation": "commenting"
+}
