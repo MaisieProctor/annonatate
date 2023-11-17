@@ -1,0 +1,37 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page6"
+order: 3
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "In former days their ancestors lived in Jussulmere but the \nchanges of the times having forced them from their Native Country when Rav Puthoosa was Rajah of Dehlie, they removed to the neighbourhood of Buttindah where they took up their \nresidence.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2023-11-17T15:49:43.511Z",
+            "modified": "2023-11-17T15:49:59.048Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page6",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"202.3946533203125,2688.382568359375 202.3946533203125,4515.884765625 3097.268798828125,4559.7763671875 3091.28369140625,4224.60107421875 3504.26708984375,4224.60107421875 3504.26708984375,2405.080078125 1349.57080078125,2387.124267578125 1349.57080078125,2686.387451171875\"></polygon></svg>"
+        }
+    },
+    "id": "1312ecf4-3ad6-4e03-a8b9-e791d2c9f7dd.json",
+    "motivation": "commenting"
+}
