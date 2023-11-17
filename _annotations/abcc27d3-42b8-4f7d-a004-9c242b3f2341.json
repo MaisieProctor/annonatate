@@ -4,20 +4,21 @@ order: 2
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Mohun Singh died while his father was yet alive, leaving a son called Hurree Singh who had a daughter born to him called Chund Kour. ",
-            "purpose": "commenting",
+            "created": "2023-11-17T17:07:20.453Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-17T17:07:20.453Z",
-            "modified": "2023-11-17T17:07:22.708Z"
+            "modified": "2023-11-17T17:07:22.708Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Mohun Singh died while his father was yet alive, leaving a son called Hurree Singh who had a daughter born to him called Chund Kour. "
         }
     ],
+    "id": "abcc27d3-42b8-4f7d-a004-9c242b3f2341.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -32,6 +33,5 @@ order: 2
             "value": "<svg><polygon points=\"280.2,1511.3 272.2,2696.3 1527.1,2710.3 1527.1,2405.1 3628,2447 3639.9,1178.1 2879.8,1166.1 2879.8,1531.2\"></polygon></svg>"
         }
     },
-    "id": "abcc27d3-42b8-4f7d-a004-9c242b3f2341.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
