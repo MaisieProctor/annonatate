@@ -1,0 +1,36 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page21"
+order: 3
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Ala Singh came from Burwala to Putteealah and Goorbuksh Singh taking Luchmun Narain along with him returned to the Gurkee of Putteealah, where they fortified themselves with ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2023-11-18T15:15:24.293Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page21",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1350.3096923828125,4653.8349609375 1357.8067626953125,6276.9609375 4664.03515625,6280.70947265625 4686.5263671875,4342.70458984375 3963.0546875,4338.9560546875 3970.552001953125,4638.8408203125 3970.552001953125,4641.01953125\"></polygon></svg>"
+        }
+    },
+    "id": "752062e0-4412-4048-8cc7-0ba9a1dbeb81.json",
+    "motivation": "commenting"
+}
