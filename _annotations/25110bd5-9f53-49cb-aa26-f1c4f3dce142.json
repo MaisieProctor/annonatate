@@ -4,19 +4,20 @@ order: 1
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "48. \nthe same time Gurut Purgas died in Nahun, it is said that about 28 women, wifes [sic] and concubines became Suttees and were burned with him. Umr Singh went to Nahun after ",
-            "purpose": "commenting",
+            "created": "2023-11-18T16:58:30.843Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-18T16:58:30.843Z"
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "48. \nthe same time Gurut Purgas died in Nahun, it is said that about 28 women, wifes [sic] and concubines became Suttees and were burned with him. Umr Singh went to Nahun after "
         }
     ],
+    "id": "25110bd5-9f53-49cb-aa26-f1c4f3dce142.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -29,9 +30,8 @@ order: 1
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1490.50341796875,417.9642333984375,3317.47412109375,1480.6805419921875"
+            "value": "xywh=1490.50341796875,376.7301025390625,3317.47412109375,1480.6805419921875"
         }
     },
-    "id": "25110bd5-9f53-49cb-aa26-f1c4f3dce142.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
