@@ -20,6 +20,10 @@ order: 3
     "id": "4789f1b8-20d5-4cf9-b198-b6cc2bc471da.json",
     "motivation": "commenting",
     "target": {
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"266.2,2708.3 262.2,3689.9 3628,3693.9 3628,2458.9 1527.1,2423 1527.1,2722.3\"></polygon></svg>"
+        },
         "source": {
             "partOf": {
                 "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
@@ -27,10 +31,6 @@ order: 3
             },
             "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page10",
             "type": "Canvas"
-        },
-        "selector": {
-            "type": "SvgSelector",
-            "value": "<svg><polygon points=\"266.2,2708.3 262.2,3689.9 3628,3693.9 3628,2458.9 1527.1,2423 1527.1,2722.3\"></polygon></svg>"
         }
     },
     "type": "Annotation"
