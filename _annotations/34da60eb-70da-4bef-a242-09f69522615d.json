@@ -1,0 +1,37 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page22"
+order: 2
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Sumund Khan also attacked Dhodeh. Alla Singh leaving the place well guarded, commenced plundering the unfortified villages of the Surhund Country. Sumund Khan wrote to him questioning his valour and dared him to remain in one place, and wait for his approach.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2023-11-18T15:18:06.189Z",
+            "modified": "2023-11-18T15:18:07.285Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page22",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"237.4,2783.5 252.4,4560.3 3015.1,4564.1 3011.4,4279 3577.4,4279 3599.9,2438.6 2719,2427.4 2711.5,2794.7\"></polygon></svg>"
+        }
+    },
+    "id": "34da60eb-70da-4bef-a242-09f69522615d.json",
+    "motivation": "commenting"
+}
