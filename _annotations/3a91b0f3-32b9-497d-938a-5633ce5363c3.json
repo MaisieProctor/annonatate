@@ -1,0 +1,36 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page17"
+order: 3
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "The mother dug up the [MS smudged] child, whom she found alive; she gave her the name of Futtoo, & married her in due season to Ala Singh, to whom she bore three son\u2019s, Sardool Singh, Lal Singh, and Bhomeea. ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2023-11-18T15:03:19.253Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page17",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1299.840576171875,3675.762451171875 1281.3687744140625,5316.67822265625 2983.857421875,5316.67822265625 2983.857421875,4984.18505859375 4670.953125,4990.34228515625 4667.8740234375,3426.392578125 3661.158447265625,3426.392578125 3658.079833984375,3684.998291015625\"></polygon></svg>"
+        }
+    },
+    "id": "3a91b0f3-32b9-497d-938a-5633ce5363c3.json",
+    "motivation": "commenting"
+}
