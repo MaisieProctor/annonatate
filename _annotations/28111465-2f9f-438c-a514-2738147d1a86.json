@@ -1,0 +1,36 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page21"
+order: 2
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Sumund Khan went to Saifabad in search of Luchmee Narain and wrote to Goorbuksh Singh to deliver him up, he refused, on the plea, that his protection had been sought. Sumund Khan enraged at this reply marched to Sunoor.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2023-11-18T15:14:51.253Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page21",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1350.5,3087 1350.5,4635.2 3963.2,4620.2 3959.5,4327.8 4682.9,4335.3 4679.2,2790.9 3239.7,2790.9 3243.5,3083.3\"></polygon></svg>"
+        }
+    },
+    "id": "28111465-2f9f-438c-a514-2738147d1a86.json",
+    "motivation": "commenting"
+}
