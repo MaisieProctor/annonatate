@@ -1,0 +1,36 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page22"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "17. \nwith Ala Singh. Sumund Khan threw up an entrenchment and commenced the attack. Supplies [etc.] were brought from Moonuk by means of a ditch communicating with the Gurkee. Seizing a favorable opportunity, they carried Luchmee Narain to the fort of Dhodeh, which they fortified. ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2023-11-18T15:16:40.982Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page22",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"323.2,418.2 267.4,2779.4 2715.2,2790.6 2718.9,2434.5 3603.6,2438.3 3614.5,407\"></polygon></svg>"
+        }
+    },
+    "id": "d037c2e5-b75c-45c4-b158-e200324ef634.json",
+    "motivation": "commenting"
+}
