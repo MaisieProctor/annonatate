@@ -1,0 +1,38 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page32"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "27. \nbut Jussa Singh being a friend of the Maharajah\u2019s would not listen to him, but left the fort. From the exit of Jussa Singh, the Maharajah concluded that something must be going on and that Bughul had the intention of seizing the fort. This affair",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2023-11-18T15:45:00.691Z",
+            "modified": "2023-11-18T15:45:02.406Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page32",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=193.20758056640625,406.71856689453125,3388.6967163085938,2057.9584350585938"
+        }
+    },
+    "id": "0c780f35-445c-4b66-9349-722441604a6e.json",
+    "motivation": "commenting"
+}
