@@ -1,0 +1,36 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page19"
+order: 2
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Rungur Zemindars on account of the population of Burwalla, tried to pick up a quarrel with Ala Singh and often carried away cattle [etc.] These offences Ala Singh overlooked, as they were vassals of the Baee of Kote Jugraoon. ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2023-11-18T15:10:16.405Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page19",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1267.8414306640625,3124.42333984375 1290.332763671875,4957.46826171875 2965.938232421875,4949.97119140625 2969.686767578125,4616.349609375 4604.05810546875,4605.10400390625 4589.06396484375,3124.42333984375\"></polygon></svg>"
+        }
+    },
+    "id": "1e0b9caf-af48-49cf-b3b8-a01f77f53e70.json",
+    "motivation": "commenting"
+}
