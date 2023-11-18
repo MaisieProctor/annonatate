@@ -4,20 +4,27 @@ order: 3
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Singh died in Dhodeh. Umr Singh went to Dhodeh and took possession. Leaving Jaetuo Singh the brother of Maee Futtoo there he returned to Putteealah with Himut Singh\u2019s widow, Desoo, and her daughter, Chund Kour. ",
-            "purpose": "commenting",
+            "created": "2023-11-18T16:51:11.502Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-18T16:51:11.502Z"
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "died in Dhodeh. Umr Singh went to Dhodeh and took possession. Leaving Jaetuo Singh the brother of Maee Futtoo there he returned to Putteealah with Himut Singh\u2019s widow, Desoo, and her daughter, Chund Kour. ",
+            "modified": "2023-11-18T16:51:23.601Z"
         }
     ],
+    "id": "d69e90ba-3513-4f3e-9d43-6a7ff0c31b0e.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=1445.520751953125,3083.189208984375,3343.714111328125,1469.434814453125"
+        },
         "source": {
             "partOf": {
                 "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
@@ -25,13 +32,7 @@ order: 3
             },
             "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page47",
             "type": "Canvas"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1445.520751953125,3083.189208984375,3343.714111328125,1469.434814453125"
         }
     },
-    "id": "d69e90ba-3513-4f3e-9d43-6a7ff0c31b0e.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
