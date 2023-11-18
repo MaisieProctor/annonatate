@@ -1,0 +1,37 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page30"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "25. \nvis[i]t[ed] Deewan Boodhoo. Deewan Jula Goorbuksh Singh. Humur Singh. Sookh das Singh. Kaleka. Desoo Singh. Phooloo Singh. Kamdaree Mul, Huree Singh Gojur. Gurdas Singh. Sikhon. Mohun Singh. Goro",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2023-11-18T15:42:03.572Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page30",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=54.51093292236328,372.9815368652344,3332.4683151245117,1750.5768127441406"
+        }
+    },
+    "id": "d6ba2684-7c6e-47ce-bd67-627a5bbd55b7.json",
+    "motivation": "commenting"
+}
