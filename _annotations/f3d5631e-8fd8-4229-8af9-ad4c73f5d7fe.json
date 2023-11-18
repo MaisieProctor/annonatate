@@ -1,0 +1,36 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page17"
+order: 2
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "At that time a holy faqueer came to the house of Kala, whose wife thus addressed him. \u201cI have brought forth a daughter and now grieve for her loss she is buried\u201d. The faqueer replied, \u201cMorn [sic] not she lives and shall multiply, dig her up, for great deeds are entrusted to that girl.\u201d",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2023-11-18T09:57:46.239Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page17",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1310.3804931640625,1527.24072265625 1302.400146484375,3669.966552734375 3654.610107421875,3675.95166015625 3654.610107421875,3424.570556640625 4666.1201171875,3430.5556640625 4660.13525390625,1527.24072265625\"></polygon></svg>"
+        }
+    },
+    "id": "f3d5631e-8fd8-4229-8af9-ad4c73f5d7fe.json",
+    "motivation": "commenting"
+}
