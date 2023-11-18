@@ -1,0 +1,38 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page23"
+order: 2
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Accordingly they made a desperate sally, drove back the enemy and entirely defeated them. The besiegers retired two coss from Dhodeh. Great plunder was found in Sumund Khan\u2019s entrenchment. Alla Singh sent Samol Kleka to Sumund Khan, recommending him to move off towards Surhund which he accordingly did.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2023-11-18T15:19:30.031Z",
+            "modified": "2023-11-18T15:19:35.088Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page23",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1256.595703125,2445.934326171875,3328.7197265625,2174.163818359375"
+        }
+    },
+    "id": "c27e6131-8d5c-44b6-b650-9e17f0208649.json",
+    "motivation": "commenting"
+}
