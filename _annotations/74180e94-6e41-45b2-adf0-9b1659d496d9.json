@@ -1,0 +1,36 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page21"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "16. \nand presents to the Hakims of Surhund. Luchme Narain, Deewan of Sumund Khan, Chuckleh Dar of Surhund, having had a dispute with his master fled from Surhund to Sunoor. Goorbukh Singh Kalaka, a vassal of the Singh, was there in Sunoor and gave the Deewan an asylum, informing his master of the same. ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2023-11-18T15:14:05.527Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page21",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1327.818359375,380.4786682128906 1335.3154296875,3086.937744140625 3239.5830078125,3083.189208984375 3232.0859375,2787.052978515625 4652.78955078125,2790.801513671875 4637.79541015625,384.22723388671875\"></polygon></svg>"
+        }
+    },
+    "id": "74180e94-6e41-45b2-adf0-9b1659d496d9.json",
+    "motivation": "commenting"
+}
