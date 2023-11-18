@@ -1,0 +1,38 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page31"
+order: 2
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "He gave \u00bd Eesroo to Jussa Singh Alhoo Walla and brought the Sikhs under his authority, and on his arrival at Putteeala dismissed them. After this a Sikh force again arrived from the Manjah Country,",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2023-11-18T15:43:43.082Z",
+            "modified": "2023-11-18T15:43:49.617Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page31",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1533.989013671875,1812.4278564453125,3321.222412109375,1608.1314697265625"
+        }
+    },
+    "id": "c75c6950-f46e-4be2-98bc-39f7d046580f.json",
+    "motivation": "commenting"
+}
