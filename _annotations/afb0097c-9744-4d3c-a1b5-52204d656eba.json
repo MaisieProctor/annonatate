@@ -4,21 +4,26 @@ order: 1
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "5.\nsucceeded his father and obtained the title of Rajah. He had 3 sons, Mohun Singh, Bagh Singh and Bhoop Singh. ",
-            "purpose": "commenting",
+            "created": "2023-11-17T17:05:41.962Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-17T17:05:41.962Z",
-            "modified": "2023-11-17T17:05:51.033Z"
+            "modified": "2023-11-17T17:05:51.033Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "5.\nsucceeded his father and obtained the title of Rajah. He had 3 sons, Mohun Singh, Bagh Singh and Bhoop Singh. "
         }
     ],
+    "id": "afb0097c-9744-4d3c-a1b5-52204d656eba.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"252.3,376.1 264.2,1489.3 2879.8,1511.3 2873.8,1170.1 3622,1176.1 3622,386\"></polygon></svg>"
+        },
         "source": {
             "partOf": {
                 "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
@@ -26,12 +31,7 @@ order: 1
             },
             "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page10",
             "type": "Canvas"
-        },
-        "selector": {
-            "type": "SvgSelector",
-            "value": "<svg><polygon points=\"252.3,376.1 264.2,1489.3 2879.8,1511.3 2873.8,1170.1 3622,1176.1 3622,386\"></polygon></svg>"
         }
     },
-    "id": "afb0097c-9744-4d3c-a1b5-52204d656eba.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
