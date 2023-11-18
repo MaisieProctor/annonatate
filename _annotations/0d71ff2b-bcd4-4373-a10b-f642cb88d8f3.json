@@ -4,20 +4,21 @@ order: 5
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Chowdry Tulook Chund had 2 sons, Goordut Singh and Sookh Chein Singh, the former of whom succeeded his father in capacity of ",
-            "purpose": "commenting",
+            "created": "2023-11-17T16:58:08.033Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-17T16:58:08.033Z",
-            "modified": "2023-11-17T16:58:11.307Z"
+            "modified": "2023-11-17T16:58:11.307Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Chowdry Tulook Chund had 2 sons, Goordut Singh and Sookh Chein Singh, the former of whom succeeded his father in capacity of "
         }
     ],
+    "id": "0d71ff2b-bcd4-4373-a10b-f642cb88d8f3.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -29,9 +30,8 @@ order: 5
         },
         "selector": {
             "type": "SvgSelector",
-            "value": "<svg><polygon points=\"270.2,4891 268.2,5944.4 2961.6,5962.3 2955.6,6357.4 3554.1,6357.4 3584.1,4896.9\"></polygon></svg>"
+            "value": "<svg><polygon points=\"270.2,4891 268.2,5944.4 2960.6,5951.4 2955.6,6357.4 3554.1,6357.4 3584.1,4896.9\"></polygon></svg>"
         }
     },
-    "id": "0d71ff2b-bcd4-4373-a10b-f642cb88d8f3.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
