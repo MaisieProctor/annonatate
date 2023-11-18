@@ -4,20 +4,26 @@ order: 1
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "13. \nbrother of Gaundah of the Chahil sect, a Sirdar of 44 villages. \n",
-            "purpose": "commenting",
+            "created": "2023-11-18T15:04:58.616Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-18T15:04:58.616Z"
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "13. \nbrother of Gaundah of the Chahil sect, a Sirdar of 44 villages. \n"
         }
     ],
+    "id": "9b2b941e-9b46-45be-a86f-00bd79ce692b.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=289.9244689941406,331.7474060058594,3354.9595642089844,888.4083557128906"
+        },
         "source": {
             "partOf": {
                 "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
@@ -25,13 +31,7 @@ order: 1
             },
             "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page18",
             "type": "Canvas"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=289.9244689941406,331.7474060058594,3354.9595642089844,888.4083557128906"
         }
     },
-    "id": "9b2b941e-9b46-45be-a86f-00bd79ce692b.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
