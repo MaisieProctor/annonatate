@@ -4,20 +4,27 @@ order: 1
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "49. \nwounded and 200 slain, among the latter was Surdar Nutha Singh. Umr Singh after seizing the Ghuree of Bhugur took possession of Sirsah and Futtehabad. Mahomed Amee fled to Raneea. Umr Singh ",
-            "purpose": "commenting",
+            "created": "2023-11-18T17:00:08.550Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-18T17:00:08.550Z"
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "49. \nwounded and 200 slain, among the latter was Surdar Nutha Singh. Umr Singh after seizing the Ghuree of Bhugur took possession of Sirsah and Futtehabad. Mahomed Amee fled to Raneea. Umr Singh ",
+            "modified": "2023-11-18T17:00:19.266Z"
         }
     ],
+    "id": "d8dd8be9-5ad3-4f02-ada7-574021925f11.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=88.24795532226562,376.7301025390625,3336.2168884277344,1731.8338623046875"
+        },
         "source": {
             "partOf": {
                 "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
@@ -25,13 +32,7 @@ order: 1
             },
             "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page54",
             "type": "Canvas"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=88.24795532226562,376.7301025390625,3336.2168884277344,1731.8338623046875"
         }
     },
-    "id": "d8dd8be9-5ad3-4f02-ada7-574021925f11.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
