@@ -4,20 +4,25 @@ order: 3
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Afterwards Ala Singh marched towards Moonuk when his son Surdool Singh attacked the Rungurs and took revenge on them. On hearing this the Baee of ",
-            "purpose": "commenting",
+            "created": "2023-11-18T15:10:57.022Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-18T15:10:57.022Z"
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Afterwards Ala Singh marched towards Moonuk when his son Surdool Singh attacked the Rungurs and took revenge on them. On hearing this the Baee of "
         }
     ],
+    "id": "aa3d50cc-3076-4212-a1a2-afa9f2e673a6.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1308.9,4953.9 1320.2,6307.1 4641.4,6292.1 4626.4,4582.8 2977,4601.5 2969.5,4935.2\"></polygon></svg>"
+        },
         "source": {
             "partOf": {
                 "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
@@ -25,12 +30,7 @@ order: 3
             },
             "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page19",
             "type": "Canvas"
-        },
-        "selector": {
-            "type": "SvgSelector",
-            "value": "<svg><polygon points=\"1308.9,4953.9 1320.2,6307.1 4641.4,6292.1 4626.4,4582.8 2977,4601.5 2969.5,4935.2\"></polygon></svg>"
         }
     },
-    "id": "aa3d50cc-3076-4212-a1a2-afa9f2e673a6.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
