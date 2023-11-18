@@ -1,0 +1,38 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page18"
+order: 2
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Lal Singh, Ala Singh\u2019s 2[n]d son married Phagan daughter of Roosukran. He was a very courageous man. One day he applied to his father for a village. Ala Singh told him to shift for himself, he accordingly went to Moonuk where he reduced the Zemindars to obedience. He died a short time after gaining possession of Moonuk in his father\u2019s life time and left no heir.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2023-11-18T15:05:43.085Z",
+            "modified": "2023-11-18T15:05:44.410Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page18",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=263.68450927734375,1216.4072265625,3381.1995239257812,2725.201904296875"
+        }
+    },
+    "id": "91548dc5-1167-4e2b-b9ae-44f88016d988.json",
+    "motivation": "commenting"
+}
