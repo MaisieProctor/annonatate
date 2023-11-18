@@ -1,0 +1,37 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page16"
+order: 2
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Soobha Singh build Huddeeah and died in Alha Singh\u2019s life time [sic], leaving one son called Jodh Singh, who succeeded him and married a woman Resan. He died while Alha Singh was alive, without leaving any heir. According to his fathers advice Surdool Singh, son of Alha Singh, married the widow Resan who bore him a son called Himut Singh. ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2023-11-18T09:55:38.466Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page16",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=232.757080078125,2756.2158203125,3343.769287109375,2785.14453125"
+        }
+    },
+    "id": "6a0ca6b9-5453-4a4b-bb35-a5dbf7b09a2d.json",
+    "motivation": "commenting"
+}
