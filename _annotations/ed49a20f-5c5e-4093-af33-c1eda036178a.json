@@ -1,0 +1,36 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page22"
+order: 3
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Alla Singh received this in Dhodeh & answered, \u201cI swear to agree to this, do you the same and delay not\u201d. Sumund Khan immediately sent a force with artillery to Dhodeh, round ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2023-11-18T15:18:36.309Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page22",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"241.19320678710938,4571.36669921875 241.19320678710938,6213.2353515625 3558.667236328125,6231.97802734375 3584.9072265625,4286.4765625 3018.874755859375,4290.22509765625 3022.62353515625,4571.36669921875\"></polygon></svg>"
+        }
+    },
+    "id": "ed49a20f-5c5e-4093-af33-c1eda036178a.json",
+    "motivation": "commenting"
+}
