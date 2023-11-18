@@ -1,0 +1,37 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page42"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "37. \nthe fort, & wrote to his son accordingly. Umr Singh taking Sookh Cheyn along with him, marched to Buttindah, and having taken possession he placed his own ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2023-11-18T16:43:50.416Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page42",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=151.97344970703125,324.2502746582031,3369.9537963867188,1495.6747741699219"
+        }
+    },
+    "id": "ee8ac33d-182a-4d1b-8651-f3db3b57b11a.json",
+    "motivation": "commenting"
+}
