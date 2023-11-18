@@ -4,20 +4,27 @@ order: 1
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "34. \nforce under Sorah dass Singh, and Hugaree Bukht Singh of Boreeah, & other Surdars was ordered against Buttindah, while 100 matchlock men remained in Umroo Singh\u2019s fort. Leaving every thing in this state, the Maharajah returned to Putteealah. ",
-            "purpose": "commenting",
+            "created": "2023-11-18T15:56:54.336Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-18T15:56:54.336Z"
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "34. \nforce under Sorah dass Singh, and Hugaree Bukht Singh of Boreeah, & other Surdars was ordered against Buttindah, while 100 matchlock men remained in Umroo Singh\u2019s fort. Leaving every thing in this state, the Maharajah returned to Putteealah. The",
+            "modified": "2023-11-18T15:57:44.352Z"
         }
     ],
+    "id": "80a20fc4-60bb-4974-8d00-155e0d9bd382.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=1417.78369140625,421.7127990722656,3328.7197265625,2039.2156677246094"
+        },
         "source": {
             "partOf": {
                 "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
@@ -25,13 +32,7 @@ order: 1
             },
             "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page39",
             "type": "Canvas"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1417.78369140625,421.7127990722656,3328.7197265625,2039.2156677246094"
         }
     },
-    "id": "80a20fc4-60bb-4974-8d00-155e0d9bd382.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
