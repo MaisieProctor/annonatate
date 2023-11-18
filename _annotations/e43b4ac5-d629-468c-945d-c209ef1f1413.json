@@ -1,0 +1,36 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page20"
+order: 2
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Alha Singh hearing of this gathering marched by night, immediately to Burwalla from Moonuk and opposed the Raee\u2019s troops. Aseed Alee the Comm[an]d[e]r in Chief of the Dooab was slain. His death caused the Raees troops to give way: Alha Singh pursued them & took goods, horses, weapons [etc.] to a large amount. ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2023-11-18T15:12:22.982Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page20",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"118.74514770507812,2423.44287109375 148.73361206054688,4878.74853515625 988.41064453125,4875 977.1649780273438,4522.6357421875 3462.459228515625,4522.6357421875 3447.46484375,2419.6943359375\"></polygon></svg>"
+        }
+    },
+    "id": "e43b4ac5-d629-468c-945d-c209ef1f1413.json",
+    "motivation": "commenting"
+}
