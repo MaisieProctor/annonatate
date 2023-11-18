@@ -4,20 +4,26 @@ order: 3
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Bhomeeah the 3[r]d son married the daughter of Munsaeh, he also died before his father, leaving a daughter called Rajindur. Ala Singh went one day to Phudoor to consult a faqueer called Chund Das on some business. The faqueer blessed him and said, \u201cGo",
-            "purpose": "commenting",
+            "created": "2023-11-18T15:08:11.906Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-18T15:08:11.906Z"
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Bhomeeah the 3[r]d son married the daughter of Munsaeh, he also died before his father, leaving a daughter called Rajindur. Ala Singh went one day to Phudoor to consult a faqueer called Chund Das on some business. The faqueer blessed him and said, \u201cGo"
         }
     ],
+    "id": "f44e5ad6-14cf-4ae1-8350-1c23901e2e29.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=252.64712524414062,4001.380859375,3361.2071228027344,2328.27099609375"
+        },
         "source": {
             "partOf": {
                 "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
@@ -25,13 +31,7 @@ order: 3
             },
             "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page18",
             "type": "Canvas"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=252.64712524414062,4001.380859375,3361.2071228027344,2328.27099609375"
         }
     },
-    "id": "f44e5ad6-14cf-4ae1-8350-1c23901e2e29.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
