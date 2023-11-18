@@ -1,0 +1,38 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page25"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "20. \nobtained his assistance & marched with a large army, accompanied by Nusseer Khan against Alla Singh then in the village of Dharsool. The opposite armies met them and continued fighting for 8 days. On the 9th day during a ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2023-11-18T15:22:48.577Z",
+            "modified": "2023-11-18T15:22:52.556Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page25",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1305.326904296875,410.4671325683594,3332.468505859375,1713.0912170410156"
+        }
+    },
+    "id": "51b4d1cf-49e7-45ae-8ec8-19ad588229f3.json",
+    "motivation": "commenting"
+}
