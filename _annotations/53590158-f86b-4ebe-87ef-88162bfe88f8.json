@@ -1,0 +1,37 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page20"
+order: 3
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Settling Burwalah, he built Soorgeewal, the date of the foundations of which, he carved on the wall of the building. \n\tFormerly Alla Singh gave revenue and ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2023-11-18T15:13:02.487Z",
+            "modified": "2023-11-18T15:13:04.488Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page20",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"141.2364959716797,4897.4912109375 163.72784423828125,6243.2236328125 3481.201904296875,6231.97802734375 3466.207763671875,4533.88134765625 984.662109375,4530.1328125 992.1592407226562,4886.24560546875\"></polygon></svg>"
+        }
+    },
+    "id": "53590158-f86b-4ebe-87ef-88162bfe88f8.json",
+    "motivation": "commenting"
+}
