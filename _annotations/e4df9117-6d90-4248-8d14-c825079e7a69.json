@@ -4,19 +4,20 @@ order: 3
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Deesoo and Khem Kour. The army was ordered again towards Kot Kupoorah. The Zemindars of Fureed Kote & Kot Kupoorah waited upon Umr Singh. The troops under ",
-            "purpose": "commenting",
+            "created": "2023-11-24T09:08:27.562Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-24T09:08:27.562Z"
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Deesoo and Khem Kour. The army was ordered again towards Kot Kupoorah. The Zemindars of Fureed Kote & Kot Kupoorah waited upon Umr Singh. The troops under "
         }
     ],
+    "id": "e4df9117-6d90-4248-8d14-c825079e7a69.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -29,9 +30,8 @@ order: 3
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1368.6754150390625,2713.9560546875,3336.2166748046875,1282.007080078125"
+            "value": "xywh=1391.166748046875,2713.9560546875,3313.725341796875,1274.510009765625"
         }
     },
-    "id": "e4df9117-6d90-4248-8d14-c825079e7a69.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
