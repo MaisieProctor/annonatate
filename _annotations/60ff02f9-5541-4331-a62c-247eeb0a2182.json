@@ -1,0 +1,38 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page111"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "106. \nof this the Maharajah having asked the advice of his ministers assaulted & carried the fort of Kunoor, confining Zorkee Mul Deewan Singh & 30 others. All the forts, cannon, Gingals, ball, powder, [etc.] were taken possession of. ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2023-11-24T16:17:57.829Z",
+            "modified": "2023-11-24T16:17:59.788Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page111",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1438.6378173828125,337.3702392578125,3328.7196044921875,2114.1868896484375"
+        }
+    },
+    "id": "60ff02f9-5541-4331-a62c-247eeb0a2182.json",
+    "motivation": "commenting"
+}
