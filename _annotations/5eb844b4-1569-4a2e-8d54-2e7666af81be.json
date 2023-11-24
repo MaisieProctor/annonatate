@@ -4,19 +4,20 @@ order: 4
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "during which time Umr Singh treated his guest with the greatest hospitality. The marriage was conducted with great splendour, and 5 sacks of Rupees were expended by ",
-            "purpose": "commenting",
+            "created": "2023-11-24T09:13:09.026Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-24T09:13:09.026Z"
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "during which time Umr Singh treated his guest with the greatest hospitality. The marriage was conducted with great splendour, and 5 sacks of Rupees were expended by "
         }
     ],
+    "id": "5eb844b4-1569-4a2e-8d54-2e7666af81be.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -29,9 +30,8 @@ order: 4
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1451.1436767578125,4610.7265625,3396.1937255859375,1709.3427734375"
+            "value": "xywh=1451.1436767578125,4588.2353515625,3381.1995849609375,1731.833984375"
         }
     },
-    "id": "5eb844b4-1569-4a2e-8d54-2e7666af81be.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
