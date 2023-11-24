@@ -4,19 +4,20 @@ order: 2
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "he and Nanoo Mul exchanged visits on the banks and consulted together. On the approach of Najuf Koolee Khan, Zabibh [sic] Khan left Gholam Kadir Khan with 2,000 Rohillas",
-            "purpose": "commenting",
+            "created": "2023-11-24T09:03:14.084Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-24T09:03:14.084Z"
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "he and Nanoo Mul exchanged visits on the banks and consulted together. On the approach of Najuf Koolee Khan, Zabibh [sic] Khan left Gholam Kadir Khan with 2,000 Rohillas"
         }
     ],
+    "id": "865079c2-b8a4-4a06-a64d-b188f485d8df.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -29,9 +30,8 @@ order: 2
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1391.166748046875,1836.7935791015625,3403.690673828125,1252.0184326171875"
+            "value": "xywh=1437.3988037109375,1836.7935791015625,3357.4586181640625,1235.1849365234375"
         }
     },
-    "id": "865079c2-b8a4-4a06-a64d-b188f485d8df.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
