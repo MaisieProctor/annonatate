@@ -4,19 +4,20 @@ order: 4
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "late Kour Hiqmut Singh had died in Huddeeah. He accordingly went there and after the ceremony of burning the body [etc.] put his seal on the property. The Maharajah by this event obtained much riches. Nanoo Mul ",
-            "purpose": "commenting",
+            "created": "2023-11-24T13:25:12.012Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-24T13:25:12.012Z"
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "late Kour Hiqmut Singh had died in Huddeeah. He accordingly went there and after the ceremony of burning the body [etc.] put his seal on the property. The Maharajah by this event obtained much riches. Nanoo Mul "
         }
     ],
+    "id": "7b1ef20b-aa85-43e9-88d1-c911afe8f5a0.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -29,9 +30,8 @@ order: 4
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=142.6021728515625,4325.83642578125,3328.7196044921875,1941.7529296875"
+            "value": "xywh=157.59640502929688,4340.83056640625,3313.725372314453,1926.7587890625"
         }
     },
-    "id": "7b1ef20b-aa85-43e9-88d1-c911afe8f5a0.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
