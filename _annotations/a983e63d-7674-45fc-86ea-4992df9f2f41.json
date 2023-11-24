@@ -4,19 +4,20 @@ order: 3
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "& Khem Kour confined Nanoo Mul in Putteealah & gave the situation of Deewan to Kooma son of Boodhoo. Hearing this Khoshail Singh of Faizoolpoor whose grandson ",
-            "purpose": "commenting",
+            "created": "2023-11-24T13:09:00.530Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-24T13:09:00.530Z"
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "& Khem Kour confined Nanoo Mul in Putteealah & gave the situation of Deewan to Kooma son of Boodhoo. Hearing this Khoshail Singh of Faizoolpoor whose grandson "
         }
     ],
+    "id": "a983e63d-7674-45fc-86ea-4992df9f2f41.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -29,9 +30,8 @@ order: 3
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1506.1119384765625,3141.291748046875,3261.2457275390625,1229.527099609375"
+            "value": "xywh=1483.6204833984375,3141.291748046875,3283.7371826171875,1214.532958984375"
         }
     },
-    "id": "a983e63d-7674-45fc-86ea-4992df9f2f41.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
