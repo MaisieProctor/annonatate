@@ -1,0 +1,38 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page109"
+order: 2
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Ranee Khan agreed and took Davee Ditta along with him to Muttra. After their departure the Maharajah who had been in the jungles returned to Dhodeh and seized the effects of Nanoo Mul, and confined Nonidh Ranee Thannahdar and Tehseeldar of Huddeeah & Burwalah",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2023-11-24T16:13:47.358Z",
+            "modified": "2023-11-24T16:13:49.873Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page109",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1378.660888671875,2174.163818359375,3366.205322265625,1881.776123046875"
+        }
+    },
+    "id": "1eaefb31-c2c2-4a1a-ba1d-c5c73e1bb357.json",
+    "motivation": "commenting"
+}
