@@ -4,19 +4,20 @@ order: 4
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Nanoo Mul along with Gholam Kadir Khan marched to Gohannah, thence to Churee Chandee, where they encamped. A friendly correspondence passed between ",
-            "purpose": "commenting",
+            "created": "2023-11-24T09:05:18.221Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-24T09:05:18.221Z"
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Nanoo Mul along with Gholam Kadir Khan marched to Gohannah, thence to Churee Chandee, where they encamped. A friendly correspondence passed between "
         }
     ],
+    "id": "1e89d054-f184-4e49-ab54-0ee57b3f1357.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -29,9 +30,8 @@ order: 4
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1379.087890625,3734.223876953125,3423.68310546875,1199.538330078125"
+            "value": "xywh=1437.3988037109375,3734.223876953125,3365.3721923828125,1212.033935546875"
         }
     },
-    "id": "1e89d054-f184-4e49-ab54-0ee57b3f1357.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
