@@ -4,20 +4,26 @@ order: 1
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "116. \nSingh his uncle had taken up arms. The Maharajah marched towards Loodeeanah. Roshun Khan waited upon him & presented ",
-            "purpose": "commenting",
+            "created": "2023-11-24T16:58:58.283Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-24T16:58:58.283Z"
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "116. \nSingh his uncle had taken up arms. The Maharajah marched towards Loodeeanah. Roshun Khan waited upon him & presented "
         }
     ],
+    "id": "cebdc5c3-15ee-4b94-8db2-fa73447cb186.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=1476.1234130859375,322.3760070800781,3336.2169189453125,1184.5444030761719"
+        },
         "source": {
             "partOf": {
                 "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
@@ -25,13 +31,7 @@ order: 1
             },
             "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page121",
             "type": "Canvas"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1476.1234130859375,322.3760070800781,3336.2169189453125,1184.5444030761719"
         }
     },
-    "id": "cebdc5c3-15ee-4b94-8db2-fa73447cb186.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
