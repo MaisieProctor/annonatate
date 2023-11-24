@@ -4,19 +4,20 @@ order: 1
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "52. \nfor assistance, leaving the army encamped in Gohanah, he went himself to the banks of the Jumna, Nowab Zabiteh Khan crossed from the Bursmt fureedpoor Ghaut, and he",
-            "purpose": "commenting",
+            "created": "2023-11-24T09:02:56.236Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-24T09:02:56.236Z"
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "52. \nfor assistance, leaving the army encamped in Gohanah, he went himself to the banks of the Jumna, Nowab Zabiteh Khan crossed from the Bursmt fureedpoor Ghaut, and he"
         }
     ],
+    "id": "bcc3ac18-e12a-4a92-9e7a-5cb1ff523678.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -29,9 +30,8 @@ order: 1
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1406.1610107421875,412.3414001464844,3388.6964111328125,1416.9549865722656"
+            "value": "xywh=1379.9210205078125,412.3414001464844,3414.9364013671875,1413.2064514160156"
         }
     },
-    "id": "bcc3ac18-e12a-4a92-9e7a-5cb1ff523678.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
