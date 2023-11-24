@@ -4,20 +4,25 @@ order: 2
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "When Alha Singh was plundering the surrounding villages, Bukht Mul built Samieka, and called it the Kot of Bukht Mul. At his death he was succeeded by his son Man Singh, who had 2 sons, Dulal Singh and Bhag Singh. The former succeeded his father, he wished to keep his younger brother from his [s]hare of the property, who with his mother complained to Sahib Singh of Putteealah. Sahib Singh called Choohe Singh of Phudoor and requested him to settle the affair.",
-            "purpose": "commenting",
+            "created": "2023-11-17T20:21:40.769Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-17T20:21:40.769Z"
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "When Alha Singh was plundering the surrounding villages, Bukht Mul built Samieka, and called it the Kot of Bukht Mul. At his death he was succeeded by his son Man Singh, who had 2 sons, Dulal Singh and Bhag Singh. The former succeeded his father, he wished to keep his younger brother from his [s]hare of the property, who with his mother complained to Sahib Singh of Putteealah. Sahib Singh called Choohe Singh of Phudoor and requested him to settle the affair."
         }
     ],
+    "id": "7261b2dd-74be-445c-9ef1-514289c41c2c.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1279.616943359375,1491.4052734375 1272.2833251953125,4864.830078125 3196.26318359375,4864.76123046875 3196.26318359375,4572.52685546875 4639.7236328125,4590.23779296875 4648.57958984375,1490.7825927734375\"></polygon></svg>"
+        },
         "source": {
             "partOf": {
                 "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
@@ -25,12 +30,7 @@ order: 2
             },
             "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page15",
             "type": "Canvas"
-        },
-        "selector": {
-            "type": "SvgSelector",
-            "value": "<svg><polygon points=\"1279.616943359375,1491.4052734375 1272.2833251953125,4864.830078125 3196.26318359375,4864.76123046875 3196.26318359375,4572.52685546875 4639.7236328125,4590.23779296875 4648.57958984375,1490.7825927734375\"></polygon></svg>"
         }
     },
-    "id": "7261b2dd-74be-445c-9ef1-514289c41c2c.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
