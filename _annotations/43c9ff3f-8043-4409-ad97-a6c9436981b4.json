@@ -4,19 +4,20 @@ order: 4
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "the Zeemeendars defended themselves during the day and fled it at night and Sahib Singh\u2019s thannah was placed in the village of Bool. The ",
-            "purpose": "commenting",
+            "created": "2023-11-24T16:31:00.445Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-24T16:31:00.445Z"
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "the Zeemeendars defended themselves during the day and fled it at night and Sahib Singh\u2019s thannah was placed in the village of Bool. The "
         }
     ],
+    "id": "43c9ff3f-8043-4409-ad97-a6c9436981b4.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -29,9 +30,8 @@ order: 4
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1318.6839599609375,4693.19482421875,3396.1939697265625,1626.87451171875"
+            "value": "xywh=1378.660888671875,4693.19482421875,3336.217041015625,1604.3828125"
         }
     },
-    "id": "43c9ff3f-8043-4409-ad97-a6c9436981b4.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
