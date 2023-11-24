@@ -4,19 +4,20 @@ order: 3
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Ghiban of Rahon. Tara Singh with 12,000 followers accompanied the Bur\u0101tt to Putteealah, where they remained 10 days, ",
-            "purpose": "commenting",
+            "created": "2023-11-24T09:12:57.717Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-24T09:12:57.717Z"
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Ghiban of Rahon. Tara Singh with 12,000 followers accompanied the Bur\u0101tt to Putteealah, where they remained 10 days, "
         }
     ],
+    "id": "a278d8c1-e376-43d7-8985-026f780be75e.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -29,9 +30,8 @@ order: 3
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1458.6407470703125,3741.06103515625,3396.1937255859375,854.67138671875"
+            "value": "xywh=1458.6407470703125,3681.084228515625,3366.2054443359375,914.648193359375"
         }
     },
-    "id": "a278d8c1-e376-43d7-8985-026f780be75e.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
