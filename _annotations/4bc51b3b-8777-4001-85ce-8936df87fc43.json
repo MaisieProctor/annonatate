@@ -4,19 +4,20 @@ order: 4
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "had seized Gaizpooran and other Chaharum villages on this side [sic] the Sutlej and Kour Singh ",
-            "purpose": "commenting",
+            "created": "2023-11-24T16:58:04.713Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-24T16:58:04.713Z"
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "had seized Gaizpooran and other Chaharum villages on this side [sic] the Sutlej and Kour Singh "
         }
     ],
+    "id": "4bc51b3b-8777-4001-85ce-8936df87fc43.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -29,9 +30,8 @@ order: 4
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=87.63938903808594,5307.95849609375,3396.193862915039,997.11669921875"
+            "value": "xywh=95.1365966796875,5307.95849609375,3388.6966552734375,1004.61376953125"
         }
     },
-    "id": "4bc51b3b-8777-4001-85ce-8936df87fc43.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
