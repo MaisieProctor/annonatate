@@ -4,19 +4,20 @@ order: 1
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "82. \nto Mukunlah, from which they took 22,000 R[upee]s. Gujput Singh was taken sick & returned from Haneer towards Suffeedon, but died before he arrived there. His body was taken to the latter place and burned. \n",
-            "purpose": "commenting",
+            "created": "2023-11-24T13:17:11.637Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-24T13:17:11.637Z"
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "82. \nto Mukunlah, from which they took 22,000 R[upee]s. Gujput Singh was taken sick & returned from Haneer towards Suffeedon, but died before he arrived there. His body was taken to the latter place and burned. \n"
         }
     ],
+    "id": "b7a3535b-221a-4b34-b92c-b4c3df2411fa.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -29,9 +30,8 @@ order: 1
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1423.6435546875,299.8846740722656,3283.73681640625,1829.2964782714844"
+            "value": "xywh=1401.1522216796875,299.8846740722656,3306.2281494140625,1821.7994079589844"
         }
     },
-    "id": "b7a3535b-221a-4b34-b92c-b4c3df2411fa.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
