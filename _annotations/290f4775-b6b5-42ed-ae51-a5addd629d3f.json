@@ -1,0 +1,37 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page73"
+order: 2
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Ram deal to wait upon them and the King\u2019s son. When Abdoolehud Khan, heard that the troops were collected at Putteealah, he concluded there would be some difficulty in returning to Dehlie by that route. He ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2023-11-24T09:46:12.760Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page73",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1391.166748046875,2151.67236328125,3343.714111328125,1551.903076171875"
+        }
+    },
+    "id": "290f4775-b6b5-42ed-ae51-a5addd629d3f.json",
+    "motivation": "commenting"
+}
