@@ -4,20 +4,21 @@ order: 3
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "together the forces of the Rajah Gujput Singh, the Kotteh Afghans, Raee Ahmed of Kot, Surdar Choohur Singh of Phudoor. Dulel Singh of Maloud, Sahib Singh\u2019s own force,",
-            "purpose": "commenting",
+            "created": "2023-11-24T09:50:01.637Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-24T09:50:01.637Z",
-            "modified": "2023-11-24T09:50:03.126Z"
+            "modified": "2023-11-24T09:50:03.126Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "together the forces of the Rajah Gujput Singh, the Kotteh Afghans, Raee Ahmed of Kot, Surdar Choohur Singh of Phudoor. Dulel Singh of Maloud, Sahib Singh\u2019s own force,"
         }
     ],
+    "id": "b42e4305-81a4-4c04-b99e-a63f318db432.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -30,9 +31,8 @@ order: 3
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=187.58486938476562,3066.320556640625,3373.7024841308594,1214.532958984375"
+            "value": "xywh=225.07046508789062,3066.320556640625,3336.2168884277344,1229.527099609375"
         }
     },
-    "id": "b42e4305-81a4-4c04-b99e-a63f318db432.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
