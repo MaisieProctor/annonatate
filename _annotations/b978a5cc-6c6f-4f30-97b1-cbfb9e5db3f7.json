@@ -4,19 +4,20 @@ order: 2
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Singh and Dul Singh and destroyed the building in which they were burned to death. After taking this revenge the Maharajah returned to Phudoor and condoled with ",
-            "purpose": "commenting",
+            "created": "2023-11-24T16:30:29.091Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-24T16:30:29.091Z"
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Singh and Dul Singh and destroyed the building in which they were burned to death. After taking this revenge the Maharajah returned to Phudoor and condoled with "
         }
     ],
+    "id": "b978a5cc-6c6f-4f30-97b1-cbfb9e5db3f7.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -29,9 +30,8 @@ order: 2
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1326.1810302734375,1881.7762451171875,3396.1939697265625,1229.5272216796875"
+            "value": "xywh=1363.6666259765625,1881.7762451171875,3358.7083740234375,1214.5328369140625"
         }
     },
-    "id": "b978a5cc-6c6f-4f30-97b1-cbfb9e5db3f7.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
