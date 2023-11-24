@@ -1,0 +1,37 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page122"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "117. \nOn account of his being a Soodee the Maharajah granted his petition and ordered Albel Singh to repair the fort at his expense.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2023-11-24T17:00:51.936Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page122",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=170.10775756835938,352.3644714355469,3321.2225646972656,1109.5732727050781"
+        }
+    },
+    "id": "b39308ed-fec6-429f-9edf-18b8bad3b5bc.json",
+    "motivation": "commenting"
+}
