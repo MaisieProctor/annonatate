@@ -4,19 +4,20 @@ order: 1
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "50. \nthat Moollah Raheemdad Khan sent by Abdoolahud Khan had arrived from Dehlie and made entrenchments against Jheend and requesting assistance. Umr Singh was then forming a treaty with the Bhuttees.",
-            "purpose": "commenting",
+            "created": "2023-11-24T08:59:16.597Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-24T08:59:16.597Z"
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "50. \nthat Moollah Raheemdad Khan sent by Abdoolahud Khan had arrived from Dehlie and made entrenchments against Jheend and requesting assistance. Umr Singh was then forming a treaty with the Bhuttees."
         }
     ],
+    "id": "3111cc5f-3754-4813-b4c9-06da8abbfbf6.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -29,9 +30,8 @@ order: 1
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1443.6466064453125,314.87890625,3343.7137451171875,1836.79345703125"
+            "value": "xywh=1391.166748046875,314.87890625,3396.193603515625,1814.30224609375"
         }
     },
-    "id": "3111cc5f-3754-4813-b4c9-06da8abbfbf6.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
