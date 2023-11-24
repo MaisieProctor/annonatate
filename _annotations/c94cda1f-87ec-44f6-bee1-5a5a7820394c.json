@@ -4,20 +4,27 @@ order: 1
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "56. \nmoney in the Bhuttee country he again returned to Putteealah. All these affairs being settled Umr Singh confined Sookh Das Singh for the purpose of enquiring into ",
-            "purpose": "commenting",
+            "created": "2023-11-24T09:11:51.628Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-24T09:11:51.628Z"
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "56. \nmoney in the Bhuttee country he again returned to Putteealah. All these affairs being settled Umr Singh confined Sookh Das Singh for the purpose of enquiring into his conduct regarding his joining Kour Himut Singh. ",
+            "modified": "2023-11-24T09:12:10.388Z"
         }
     ],
+    "id": "c94cda1f-87ec-44f6-bee1-5a5a7820394c.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=1488.6292724609375,329.8731384277344,3351.2110595703125,1469.4348449707031"
+        },
         "source": {
             "partOf": {
                 "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
@@ -25,13 +32,7 @@ order: 1
             },
             "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page61",
             "type": "Canvas"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1488.6292724609375,329.8731384277344,3351.2110595703125,1469.4348449707031"
         }
     },
-    "id": "c94cda1f-87ec-44f6-bee1-5a5a7820394c.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
