@@ -1,0 +1,38 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page114"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "109. \nRuttun Raee mourned for her death and being also taken with a fit of sickness died in 15 days. The Maharajah returned from Soonam and took possession of their effects. ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2023-11-24T16:21:36.670Z",
+            "modified": "2023-11-24T16:21:38.086Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page114",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=135.1050567626953,329.8731384277344,3268.7428436279297,1476.9319152832031"
+        }
+    },
+    "id": "d767f9bb-2c16-4317-a234-6ad1f7fa7f50.json",
+    "motivation": "commenting"
+}
