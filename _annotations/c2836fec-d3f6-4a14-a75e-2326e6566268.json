@@ -4,19 +4,20 @@ order: 4
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Nanoo promised to pay the Mahrattas a certain sum if they freed his son, and proved to them that it was not at all likely that they would otherwise obtain any thing from Beebee",
-            "purpose": "commenting",
+            "created": "2023-11-24T15:21:03.121Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-24T15:21:03.121Z"
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Nanoo promised to pay the Mahrattas a certain sum if they freed his son, and proved to them that it was not at all likely that they would otherwise obtain any thing from Beebee"
         }
     ],
+    "id": "c2836fec-d3f6-4a14-a75e-2326e6566268.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -29,9 +30,8 @@ order: 4
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1341.17529296875,4693.19482421875,3381.19970703125,1641.86865234375"
+            "value": "xywh=1356.1695556640625,4723.18359375,3366.2054443359375,1611.8798828125"
         }
     },
-    "id": "c2836fec-d3f6-4a14-a75e-2326e6566268.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
