@@ -4,20 +4,26 @@ order: 3
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "he sent Himut Singh to Phugwarah with a letter to his Rajunder requesting her assistance. The following chiefs joined Umr Singh with their troops. Bhaee Daha Singh, Bhaee Sookha ",
-            "purpose": "commenting",
+            "created": "2023-11-24T09:36:00.965Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-24T09:36:00.965Z"
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "he sent Himut Singh to Phugwarah with a letter to his Rajunder requesting her assistance. The following chiefs joined Umr Singh with their troops. Bhaee Daha Singh, Bhaee Sookha "
         }
     ],
+    "id": "5f2157ed-1144-42e0-a86f-ab977e3d8c3a.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=1383.669677734375,3411.18798828125,3373.702392578125,1199.53857421875"
+        },
         "source": {
             "partOf": {
                 "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
@@ -25,13 +31,7 @@ order: 3
             },
             "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page65",
             "type": "Canvas"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1383.669677734375,3411.18798828125,3373.702392578125,1199.53857421875"
         }
     },
-    "id": "5f2157ed-1144-42e0-a86f-ab977e3d8c3a.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
