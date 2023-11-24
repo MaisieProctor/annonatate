@@ -1,0 +1,37 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page65"
+order: 4
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Singh, Sirdar Choohur Singh of Phudoor, Surdar Dulel Singh of Maloud, Rajah Gujput Singh, Chowdry Huree Singh, Raee Ahmud of Kot, Comur[?] Khan, Aseedoollah Khan and Attaoollah Khan, ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2023-11-24T09:36:22.014Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page65",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1383.669677734375,4633.2177734375,3366.205322265625,1619.37744140625"
+        }
+    },
+    "id": "6ec4a8a1-a0fd-4caf-b7fa-e2ca903d360d.json",
+    "motivation": "commenting"
+}
