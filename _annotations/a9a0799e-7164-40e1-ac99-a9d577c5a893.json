@@ -4,19 +4,20 @@ order: 4
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "that Raneeah should be given up. The Bhuttees accordingly retired to Bhutnere, and the Maharajahs troops took possession ",
-            "purpose": "commenting",
+            "created": "2023-11-24T09:10:56.082Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-24T09:10:56.082Z"
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "that Raneeah should be given up. The Bhuttees accordingly retired to Bhutnere, and the Maharajahs troops took possession "
         }
     ],
+    "id": "a9a0799e-7164-40e1-ac99-a9d577c5a893.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -29,9 +30,8 @@ order: 4
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=45.139652252197266,4220.87646484375,3366.2053184509277,1027.10498046875"
+            "value": "xywh=67.6310043334961,4220.87646484375,3328.719825744629,982.12255859375"
         }
     },
-    "id": "a9a0799e-7164-40e1-ac99-a9d577c5a893.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
