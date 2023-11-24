@@ -1,0 +1,38 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page105"
+order: 3
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "with 700 Matchlock men to the Sumanah and Soonam gates and stationing the cavalry round the fort. The Mahratta army marched by small parties for Kimheree towards Turpuree. Ranee Khan joined Bukshee Jia in Kunheree. ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2023-11-24T15:20:48.146Z",
+            "modified": "2023-11-24T15:20:50.870Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page105",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1356.1695556640625,3118.800537109375,3381.1995849609375,1566.897216796875"
+        }
+    },
+    "id": "01571d13-4857-4e30-8edf-0f147a92198b.json",
+    "motivation": "commenting"
+}
