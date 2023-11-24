@@ -1,0 +1,38 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page96"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "91. \nMonpoor. The Mahrattas also arrived there. It was settled that Bughel Singh brother of Lall Singh should pay 7,000 R[upee]s but he was unable to pay. Nanoo Mul paid it for him and received in pawn",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2023-11-24T15:10:14.404Z",
+            "modified": "2023-11-24T15:10:16.965Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page96",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=52.63676834106445,329.8731384277344,3366.2052726745605,1469.4348449707031"
+        }
+    },
+    "id": "c3fd7fff-2492-4eb5-a6fa-ed5d405fa9c7.json",
+    "motivation": "commenting"
+}
