@@ -4,19 +4,20 @@ order: 3
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "At this period a petition was presented from Roshun Khan, minister of Raee Elias, son of Raee Ahmud, requesting him to come to Loodeeanah to his assistance as Sooda Singh Kour of Phellore ",
-            "purpose": "commenting",
+            "created": "2023-11-24T16:57:51.137Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-24T16:57:51.137Z"
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "At this period a petition was presented from Roshun Khan, minister of Raee Elias, son of Raee Ahmud, requesting him to come to Loodeeanah to his assistance as Sooda Singh Kour of Phellore "
         }
     ],
+    "id": "75f39730-6127-420a-aa67-717878666d42.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -29,9 +30,8 @@ order: 3
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=87.63948059082031,3688.581298828125,3396.1937713623047,1611.880126953125"
+            "value": "xywh=125.12506103515625,3688.581298828125,3358.7081909179688,1574.394287109375"
         }
     },
-    "id": "75f39730-6127-420a-aa67-717878666d42.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
