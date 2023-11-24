@@ -1,0 +1,38 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page106"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "101. \nBeebee Rajindur or Ranee Ruttun Kour. Ranee Khan sent a message to Beebee Rajindur requesting that Daree Deota should be given up. Sirdar Chaen Singh, Moonshee",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2023-11-24T16:07:28.228Z",
+            "modified": "2023-11-24T16:07:29.420Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page106",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=136.97921752929688,376.7301025390625,3313.725372314453,1465.686279296875"
+        }
+    },
+    "id": "56de8321-e127-43ad-aa9f-9148d0dd75e9.json",
+    "motivation": "commenting"
+}
