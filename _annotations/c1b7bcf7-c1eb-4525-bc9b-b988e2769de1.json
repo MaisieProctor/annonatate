@@ -4,19 +4,20 @@ order: 1
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "114. \n10 or 12 of the Maharajah\u2019s men were killed and wounded. Sahib Singh remained 2 days and burned Khunneeah Bhagah and other villages belonging to the murderers of Choohur ",
-            "purpose": "commenting",
+            "created": "2023-11-24T16:30:04.694Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-24T16:30:04.694Z"
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "114. \n10 or 12 of the Maharajah\u2019s men were killed and wounded. Sahib Singh remained 2 days and burned Khunneeah Bhagah and other villages belonging to the murderers of Choohur "
         }
     ],
+    "id": "c1b7bcf7-c1eb-4525-bc9b-b988e2769de1.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -29,9 +30,8 @@ order: 1
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1341.17529296875,434.832763671875,3381.19970703125,1431.94921875"
+            "value": "xywh=1371.163818359375,434.832763671875,3351.211181640625,1439.4464111328125"
         }
     },
-    "id": "c1b7bcf7-c1eb-4525-bc9b-b988e2769de1.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
