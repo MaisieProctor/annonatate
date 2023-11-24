@@ -4,19 +4,20 @@ order: 1
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "67. \nof Kalee, Desoo Singh & the other Sikh chiefs of the Dooab. The whole amounting to 40 or 50,000 horse & foot. Abdoolehud Khan\u2019s force reached Nasawah. Mungul Singh and Dewa Singh, vaqueels of Bhaee Desoo Singh, came along with him from Dehlie. ",
-            "purpose": "commenting",
+            "created": "2023-11-24T09:44:35.373Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-24T09:44:35.373Z"
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "67. \nof Kalee, Desoo Singh & the other Sikh chiefs of the Dooab. The whole amounting to 40 or 50,000 horse & foot. Abdoolehud Khan\u2019s force reached Nasawah. Mungul Singh and Dewa Singh, vaqueels of Bhaee Desoo Singh, came along with him from Dehlie. "
         }
     ],
+    "id": "b2a5915f-c9b6-4221-8fc8-819d5eb4327a.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -29,9 +30,8 @@ order: 1
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=157.59645080566406,292.3876647949219,3381.199447631836,2181.660675048828"
+            "value": "xywh=157.59645080566406,292.3876647949219,3388.696517944336,2121.683868408203"
         }
     },
-    "id": "b2a5915f-c9b6-4221-8fc8-819d5eb4327a.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
