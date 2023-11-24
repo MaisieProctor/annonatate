@@ -4,19 +4,20 @@ order: 5
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "widow of Chowdry Humeer Singh. Beebee Rajindur thinking that she ought also to be ",
-            "purpose": "commenting",
+            "created": "2023-11-24T13:11:58.061Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-24T13:11:58.061Z"
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "widow of Chowdry Humeer Singh. Beebee Rajindur thinking that she ought also to be "
         }
     ],
+    "id": "28168189-8e25-471d-8e7c-2aadf59b9714.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -29,9 +30,8 @@ order: 5
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=240.06468200683594,5382.9296875,3291.234146118164,914.64794921875"
+            "value": "xywh=240.06468200683594,5387.615234375,3334.342544555664,909.96240234375"
         }
     },
-    "id": "28168189-8e25-471d-8e7c-2aadf59b9714.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
