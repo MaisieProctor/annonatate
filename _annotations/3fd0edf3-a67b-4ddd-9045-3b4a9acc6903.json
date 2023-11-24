@@ -1,0 +1,38 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page54"
+order: 2
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "placed Sokhara Buksh as Thannahdar and Motee ram poorbee as Killadar of Futtehabad, and Humeer Singh Kaleeka Thannahdar with Bhoerany Das Poorbee Killadar of Sirsah. He then marched",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2023-11-24T08:58:21.166Z",
+            "modified": "2023-11-24T08:58:22.555Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page54",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=82.62523651123047,2129.18115234375,3336.2168045043945,1536.908935546875"
+        }
+    },
+    "id": "3fd0edf3-a67b-4ddd-9045-3b4a9acc6903.json",
+    "motivation": "commenting"
+}
