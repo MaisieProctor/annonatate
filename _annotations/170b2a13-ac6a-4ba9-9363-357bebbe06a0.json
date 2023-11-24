@@ -4,19 +4,20 @@ order: 5
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "of Raneeah. Umr Singh came to Raneeah & having collected a large sum of money",
-            "purpose": "commenting",
+            "created": "2023-11-24T09:11:11.026Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-24T09:11:11.026Z"
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "of Raneeah. Umr Singh came to Raneeah & having collected a large sum of money"
         }
     ],
+    "id": "170b2a13-ac6a-4ba9-9363-357bebbe06a0.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -29,9 +30,8 @@ order: 5
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=60.13388442993164,5262.9755859375,3328.7196311950684,1019.60791015625"
+            "value": "xywh=60.13388442993164,5225.490234375,3328.7196311950684,1057.09326171875"
         }
     },
-    "id": "170b2a13-ac6a-4ba9-9363-357bebbe06a0.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
