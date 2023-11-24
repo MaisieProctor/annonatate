@@ -4,19 +4,20 @@ order: 4
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "him. She replied that she had left Manjah on her way. He again wrote her to repair to Putteealah [etc.] Leaving Albel Singh,",
-            "purpose": "commenting",
+            "created": "2023-11-24T17:01:50.322Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-24T17:01:50.322Z"
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "him. She replied that she had left Manjah on her way. He again wrote her to repair to Putteealah [etc.] Leaving Albel Singh,"
         }
     ],
+    "id": "2c5bfb80-fc3c-4164-8aad-68a67413065d.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -29,9 +30,8 @@ order: 4
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=147.6164093017578,4333.33349609375,3313.725387573242,974.625"
+            "value": "xywh=147.6164093017578,4333.33349609375,3283.737106323242,899.65380859375"
         }
     },
-    "id": "2c5bfb80-fc3c-4164-8aad-68a67413065d.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
