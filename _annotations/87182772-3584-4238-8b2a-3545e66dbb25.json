@@ -4,20 +4,26 @@ order: 3
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "300 were killed and wounded. Among the latter was Nanoo Mull, who immediately went to Mundhpoor to let the Maharajah know of the defeat & to inform him that Goorbuksh Singh was surrounded in Laleeah & Jhundoo Singh and Maha Singh taken by the Sikhs. ",
-            "purpose": "commenting",
+            "created": "2023-11-24T09:34:32.364Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-24T09:34:32.364Z"
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "300 were killed and wounded. Among the latter was Nanoo Mull, who immediately went to Mundhpoor to let the Maharajah know of the defeat & to inform him that Goorbuksh Singh was surrounded in Laleeah & Jhundoo Singh and Maha Singh taken by the Sikhs. "
         }
     ],
+    "id": "87182772-3584-4238-8b2a-3545e66dbb25.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=105.11658477783203,3366.205322265625,3373.702507019043,2226.643798828125"
+        },
         "source": {
             "partOf": {
                 "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
@@ -25,13 +31,7 @@ order: 3
             },
             "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page64",
             "type": "Canvas"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=105.11658477783203,3366.205322265625,3373.702507019043,2226.643798828125"
         }
     },
-    "id": "87182772-3584-4238-8b2a-3545e66dbb25.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
