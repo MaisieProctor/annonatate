@@ -4,19 +4,20 @@ order: 3
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "and 500 Horse and departed, saying in the time of need we all assist each other. ",
-            "purpose": "commenting",
+            "created": "2023-11-24T09:03:40.702Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-24T09:03:40.702Z"
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "and 500 Horse and departed, saying in the time of need we all assist each other. "
         }
     ],
+    "id": "ade7d586-f9fa-45c0-bfa6-a70606f15d25.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -29,9 +30,8 @@ order: 3
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1376.1724853515625,3103.80615234375,3426.1824951171875,599.769287109375"
+            "value": "xywh=1389.591064453125,3100.0576171875,3412.763916015625,603.517822265625"
         }
     },
-    "id": "ade7d586-f9fa-45c0-bfa6-a70606f15d25.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
