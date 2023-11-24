@@ -1,0 +1,37 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page72"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "67. \nof Kalee, Desoo Singh & the other Sikh chiefs of the Dooab. The whole amounting to 40 or 50,000 horse & foot. Abdoolehud Khan\u2019s force reached Nasawah. Mungul Singh and Dewa Singh, vaqueels of Bhaee Desoo Singh, came along with him from Dehlie. ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2023-11-24T09:44:35.373Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page72",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=157.59645080566406,292.3876647949219,3381.199447631836,2181.660675048828"
+        }
+    },
+    "id": "b2a5915f-c9b6-4221-8fc8-819d5eb4327a.json",
+    "motivation": "commenting"
+}
