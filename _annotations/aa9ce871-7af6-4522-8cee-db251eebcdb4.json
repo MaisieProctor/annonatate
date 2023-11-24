@@ -4,19 +4,20 @@ order: 2
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "In the year Sumbut 1835 in the month of Maghun, Chund Kour daughter of Ranee Desoo, was betrothed to Dusundah Singh son of Surdar Tara Singh ",
-            "purpose": "commenting",
+            "created": "2023-11-24T09:12:45.563Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-24T09:12:45.563Z"
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "In the year Sumbut 1835 in the month of Maghun, Chund Kour daughter of Ranee Desoo, was betrothed to Dusundah Singh son of Surdar Tara Singh "
         }
     ],
+    "id": "aa9ce871-7af6-4522-8cee-db251eebcdb4.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -29,9 +30,8 @@ order: 2
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1481.1322021484375,2444.06005859375,3366.2052001953125,1289.50390625"
+            "value": "xywh=1481.1322021484375,2444.06005859375,3358.7081298828125,1237.024169921875"
         }
     },
-    "id": "aa9ce871-7af6-4522-8cee-db251eebcdb4.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
