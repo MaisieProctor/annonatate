@@ -4,20 +4,21 @@ order: 3
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "with 700 Matchlock men to the Sumanah and Soonam gates and stationing the cavalry round the fort. The Mahratta army marched by small parties for Kimheree towards Turpuree. Ranee Khan joined Bukshee Jia in Kunheree. ",
-            "purpose": "commenting",
+            "created": "2023-11-24T15:20:48.146Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-24T15:20:48.146Z",
-            "modified": "2023-11-24T15:20:50.870Z"
+            "modified": "2023-11-24T15:20:50.870Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "with 700 Matchlock men to the Sumanah and Soonam gates and stationing the cavalry round the fort. The Mahratta army marched by small parties for Kimheree towards Turpuree. Ranee Khan joined Bukshee Jia in Kunheree. "
         }
     ],
+    "id": "01571d13-4857-4e30-8edf-0f147a92198b.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -30,9 +31,8 @@ order: 3
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1356.1695556640625,3118.800537109375,3381.1995849609375,1566.897216796875"
+            "value": "xywh=1371.163818359375,3118.800537109375,3366.205322265625,1589.388427734375"
         }
     },
-    "id": "01571d13-4857-4e30-8edf-0f147a92198b.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
