@@ -11,10 +11,10 @@ order: 3
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
+            "modified": "2023-11-25T10:41:36.346Z",
             "purpose": "commenting",
             "type": "TextualBody",
-            "value": "came with the marriage procession to Putteealah. The Maharajah treated the Bur\u0101t for 6 days in a most hospitable manner and gave his daughter a dowry in clothes, horses, camels, elephants, buffaloes, cows, Rhuts drawn by horses, silver saddles [etc.], the whole amounting to 2 sacks and 50,000 R[upee]s. ",
-            "modified": "2023-11-25T10:41:36.346Z"
+            "value": "came with the marriage procession to Putteealah. The Maharajah treated the Bur\u0101t for 6 days in a most hospitable manner and gave his daughter a dowry in clothes, horses, camels, elephants, buffaloes, cows, Rhuts drawn by horses, silver saddles [etc.], the whole amounting to 2 sacks and 50,000 R[upee]s. "
         }
     ],
     "id": "09c5e5ff-953d-4809-b2af-5021f1a69f22.json",
@@ -31,7 +31,7 @@ order: 3
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=175.1192626953125,2099.192626953125,3426.1822509765625,2159.169677734375"
+            "value": "xywh=212.60484313964844,2099.192626953125,3388.6966705322266,2151.672607421875"
         }
     },
     "type": "Annotation"
