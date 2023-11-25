@@ -1,0 +1,38 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page151"
+order: 3
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Leaving Deewan Singh, Tara Singh and others in Putteealah, The Maharajah went to Soonam. There was a dispute concerning the boundaries of Dooludeh, which had for a long time belonged to Jusswunt Singh. Some ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2023-11-25T10:52:27.828Z",
+            "modified": "2023-11-25T10:52:31.334Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page151",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1303.689697265625,3126.297607421875,3396.193603515625,1514.417724609375"
+        }
+    },
+    "id": "5b90dd4d-4ade-4cd6-9f5e-13e569ef2b90.json",
+    "motivation": "commenting"
+}
