@@ -1,0 +1,37 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page160"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "155. \nIn Sumbut 1865, Ranee Nund Kour bore a son called Kour Ajeet Singh. In this year Runjeet crossed the Sutlej for the 3[r]d time with 70,000 horsemen and marched via Raeepoor, Ranekee, levying contributions to ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2023-11-25T11:57:57.821Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page160",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=227.5990753173828,299.8846740722656,3486.159225463867,1806.8050231933594"
+        }
+    },
+    "id": "ad6ca28f-3b57-47f7-b768-365ad36aa813.json",
+    "motivation": "commenting"
+}
