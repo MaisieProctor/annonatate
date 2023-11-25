@@ -1,0 +1,38 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page154"
+order: 3
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "After the victory the surdars wished to take possession of Nabah & the surrounding towns, but were prevented by Lall Singh. After halting 4 days at Behraj, the Ranee returned to Putteealah. The Maharajah and Lall Singh encamped at Munsoorpoor. ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2023-11-25T10:55:21.175Z",
+            "modified": "2023-11-25T10:55:23.459Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page154",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=197.61061096191406,2743.944580078125,3433.679428100586,1859.284912109375"
+        }
+    },
+    "id": "881219c1-666d-4609-bcc1-25fdbdc61b78.json",
+    "motivation": "commenting"
+}
