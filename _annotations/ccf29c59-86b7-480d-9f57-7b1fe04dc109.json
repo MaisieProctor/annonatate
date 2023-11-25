@@ -4,19 +4,20 @@ order: 2
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "of this prepared his army in Munsoorpoor and put Albel Singh Kaleeka in charge of Putteealah. Runjeet Singh crossed the Sutlej and by regular marches arrived in Nabah. He seized Dalodeh a village belonging to Putteealah which he gave to Juswunt Singh with ",
-            "purpose": "commenting",
+            "created": "2023-11-25T10:56:11.424Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-25T10:56:11.424Z"
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "of this prepared his army in Munsoorpoor and put Albel Singh Kaleeka in charge of Putteealah. Runjeet Singh crossed the Sutlej and by regular marches arrived in Nabah. He seized Dalodeh a village belonging to Putteealah which he gave to Juswunt Singh with "
         }
     ],
+    "id": "ccf29c59-86b7-480d-9f57-7b1fe04dc109.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -29,9 +30,8 @@ order: 2
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1333.67822265625,2181.660888671875,3366.205078125,1859.284912109375"
+            "value": "xywh=1303.689697265625,2181.660888671875,3396.193603515625,1844.290771484375"
         }
     },
-    "id": "ccf29c59-86b7-480d-9f57-7b1fe04dc109.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
