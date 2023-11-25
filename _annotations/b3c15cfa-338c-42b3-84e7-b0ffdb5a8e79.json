@@ -1,0 +1,37 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page137"
+order: 4
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "with Deewan Singh went towards Manngawal and the Maharajah arrived in Kursh[?] and then marched with the united force to Goongoanah and sent 5,000 sowars under Bagh Singh, Tarra Singh and Kurm Singh against Thomas. Hostilities continued for 4 ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2023-11-25T10:28:17.010Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page137",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1311.1868896484375,4033.44873046875,3396.1934814453125,2241.6376953125"
+        }
+    },
+    "id": "b3c15cfa-338c-42b3-84e7-b0ffdb5a8e79.json",
+    "motivation": "commenting"
+}
