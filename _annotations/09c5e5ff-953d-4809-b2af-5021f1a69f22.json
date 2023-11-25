@@ -4,19 +4,21 @@ order: 3
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "came with the marriage procession to Putteealah. The Maharajah treated the Bur\u0101t for 6 days in a most hospitable manner and gave his daughter a dowry in clothes, horses, camels, elephants, buffaloes, cows, Rhuts ",
-            "purpose": "commenting",
+            "created": "2023-11-25T10:41:11.689Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-25T10:41:11.689Z"
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "came with the marriage procession to Putteealah. The Maharajah treated the Bur\u0101t for 6 days in a most hospitable manner and gave his daughter a dowry in clothes, horses, camels, elephants, buffaloes, cows, Rhuts drawn by horses, silver saddles [etc.], the whole amounting to 2 sacks and 50,000 R[upee]s. ",
+            "modified": "2023-11-25T10:41:36.346Z"
         }
     ],
+    "id": "09c5e5ff-953d-4809-b2af-5021f1a69f22.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -29,9 +31,8 @@ order: 3
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=175.1192626953125,2099.192626953125,3396.1937255859375,1566.8974609375"
+            "value": "xywh=175.1192626953125,2099.192626953125,3426.1822509765625,2159.169677734375"
         }
     },
-    "id": "09c5e5ff-953d-4809-b2af-5021f1a69f22.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
