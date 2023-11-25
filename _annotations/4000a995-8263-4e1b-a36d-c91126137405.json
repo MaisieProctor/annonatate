@@ -4,19 +4,20 @@ order: 1
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "154. \nrequested the gun of Khenra Khan, the finest piece in Sahib Singh\u2019s park, and a ruby necklace, offering in exchange Googranah Mehlon [etc.] He got the above articles ",
-            "purpose": "commenting",
+            "created": "2023-11-25T11:56:28.131Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-25T11:56:28.131Z"
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "154. \nrequested the gun of Khenra Khan, the finest piece in Sahib Singh\u2019s park, and a ruby necklace, offering in exchange Googranah Mehlon [etc.] He got the above articles "
         }
     ],
+    "id": "4000a995-8263-4e1b-a36d-c91126137405.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -29,9 +30,8 @@ order: 1
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1356.1695556640625,374.8558349609375,3343.7137451171875,1536.9088134765625"
+            "value": "xywh=1281.1983642578125,374.8558349609375,3418.6849365234375,1529.4117431640625"
         }
     },
-    "id": "4000a995-8263-4e1b-a36d-c91126137405.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
