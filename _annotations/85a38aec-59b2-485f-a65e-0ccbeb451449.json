@@ -4,19 +4,21 @@ order: 3
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "The camp equipage [etc.] fell into Thomas\u2019s hands who after this victory returned to Hansee and sent Aodha[?] Chund to propose a treaty, which according to the advice of Bagh Singh ",
-            "purpose": "commenting",
+            "created": "2023-11-25T10:22:35.597Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-25T10:22:35.597Z"
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "The camp equipage [etc.] fell into Thomas\u2019s hands who after this victory returned to Hansee and sent Aodha[?] Chund to propose a treaty, which according to the advice of Bagh Singh and the other chiefs the Maharajah agreed to. ",
+            "modified": "2023-11-25T10:23:01.440Z"
         }
     ],
+    "id": "85a38aec-59b2-485f-a65e-0ccbeb451449.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -29,9 +31,8 @@ order: 3
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1446.1348876953125,3081.31494140625,3291.2342529296875,1214.53271484375"
+            "value": "xywh=1446.1348876953125,3081.31494140625,3298.7313232421875,1506.92041015625"
         }
     },
-    "id": "85a38aec-59b2-485f-a65e-0ccbeb451449.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
