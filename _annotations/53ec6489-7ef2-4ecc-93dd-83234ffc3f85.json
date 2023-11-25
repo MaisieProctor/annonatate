@@ -1,0 +1,38 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page166"
+order: 3
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "In Sumbut 1878 Ranee Askour was put in charge of the government, Misser Nonedh Raee was minister. Goordeeal Deewan and Kissen Chund Moonshee, Nund Singh Chaharum Sharer of Askour[?] Koonan ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2023-11-25T12:08:17.865Z",
+            "modified": "2023-11-25T12:08:22.916Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page166",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=190.11349487304688,3096.30908203125,3411.188018798828,1514.41748046875"
+        }
+    },
+    "id": "53ec6489-7ef2-4ecc-93dd-83234ffc3f85.json",
+    "motivation": "commenting"
+}
