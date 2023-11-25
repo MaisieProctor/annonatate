@@ -1,0 +1,37 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page161"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "156. \nexchanging turbans took place, after which the Maharajah returned to Putteealah & Runjeet to Umballa, where he left Gunda Singh safer with 15,000 sowars and marched to Lahore accompanied as far as the Sutlej by Bhag Singh and Chaeen Singh. \n",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2023-11-25T11:59:10.816Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page161",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1333.67822265625,374.8558349609375,3403.69091796875,2084.1983642578125"
+        }
+    },
+    "id": "3a709c44-ee4f-49c7-9c57-644e771fcdaf.json",
+    "motivation": "commenting"
+}
