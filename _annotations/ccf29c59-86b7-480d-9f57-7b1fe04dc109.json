@@ -1,0 +1,37 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page155"
+order: 2
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "of this prepared his army in Munsoorpoor and put Albel Singh Kaleeka in charge of Putteealah. Runjeet Singh crossed the Sutlej and by regular marches arrived in Nabah. He seized Dalodeh a village belonging to Putteealah which he gave to Juswunt Singh with ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2023-11-25T10:56:11.424Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page155",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1333.67822265625,2181.660888671875,3366.205078125,1859.284912109375"
+        }
+    },
+    "id": "ccf29c59-86b7-480d-9f57-7b1fe04dc109.json",
+    "motivation": "commenting"
+}
