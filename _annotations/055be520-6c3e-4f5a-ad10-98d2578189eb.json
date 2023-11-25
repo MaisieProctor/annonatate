@@ -1,0 +1,37 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page163"
+order: 3
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "took place, she was betrothed to Kurk Singh, son of Kurm Singh Nermullah of Shahabad. Surdar Sher Singh eldest brother or Kurk Singh came to Putteealah with the Bus\u0101t, attended by 4 or 5,000 Sikhs and the neighbouring chiefs. The Burr\u0101t[?] was ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2023-11-25T12:01:22.249Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page163",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1281.1983642578125,4108.419921875,3373.7025146484375,2226.6435546875"
+        }
+    },
+    "id": "055be520-6c3e-4f5a-ad10-98d2578189eb.json",
+    "motivation": "commenting"
+}
