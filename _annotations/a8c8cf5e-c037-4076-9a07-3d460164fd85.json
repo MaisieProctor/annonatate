@@ -4,19 +4,20 @@ order: 5
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "In Sumbut 1864 Runjeet recrossed the Sutlej at the ferry of Hurree kee putturo, & took possession of Kot Kuppoorah and other cities in that Zillah taking presents as ",
-            "purpose": "commenting",
+            "created": "2023-11-25T10:59:37.088Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-25T10:59:37.088Z"
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "In Sumbut 1864 Runjeet recrossed the Sutlej at the ferry of Hurree kee putturo, & took possession of Kot Kuppoorah and other cities in that Zillah taking presents as "
         }
     ],
+    "id": "a8c8cf5e-c037-4076-9a07-3d460164fd85.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -29,9 +30,8 @@ order: 5
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1333.67822265625,4640.71533203125,3396.19384765625,1716.83935546875"
+            "value": "xywh=1341.17529296875,4640.71533203125,3388.69677734375,1716.83935546875"
         }
     },
-    "id": "a8c8cf5e-c037-4076-9a07-3d460164fd85.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
