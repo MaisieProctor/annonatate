@@ -4,19 +4,20 @@ order: 2
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Jagraon [etc.], to Futteh Singh Alhoowalah. Buddawul [etc.] to Goordut Singh of Ladwah. ",
-            "purpose": "commenting",
+            "created": "2023-11-25T10:58:50.134Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-25T10:58:50.134Z"
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Jagraon [etc.], to Futteh Singh Alhoowalah. Buddawul [etc.] to Goordut Singh of Ladwah. "
         }
     ],
+    "id": "092b4d25-b71b-4110-8a19-666988c9f2f1.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -29,9 +30,8 @@ order: 2
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1363.6669921875,1551.9031982421875,3351.2109375,584.7750244140625"
+            "value": "xywh=1348.67236328125,1551.903076171875,3366.20556640625,584.775146484375"
         }
     },
-    "id": "092b4d25-b71b-4110-8a19-666988c9f2f1.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
