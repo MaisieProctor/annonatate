@@ -4,20 +4,21 @@ order: 2
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Singh, Jumalpoorah and 4 other forts in pawn. This Chaeen Singh agreed to and paid 1 sack of Rupees for them to Runjeet, collecting together the surdars, Sahib Singh prepared a force of 15,000 men. Runjeet ",
-            "purpose": "commenting",
+            "created": "2023-11-25T11:55:07.752Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-25T11:55:07.752Z",
-            "modified": "2023-11-25T11:55:21.177Z"
+            "modified": "2023-11-25T11:55:21.177Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Singh, Jumalpoorah and 4 other forts in pawn. This Chaeen Singh agreed to and paid 1 sack of Rupees for them to Runjeet, collecting together the surdars, Sahib Singh prepared a force of 15,000 men. Runjeet "
         }
     ],
+    "id": "2d3eca11-70ac-4c05-875d-dd1cfe933113.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -30,9 +31,8 @@ order: 2
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=220.10182189941406,2170.589599609375,3366.205551147461,1529.411865234375"
+            "value": "xywh=204.85218811035156,2185.583984375,3403.9463958740234,1521.90966796875"
         }
     },
-    "id": "2d3eca11-70ac-4c05-875d-dd1cfe933113.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
