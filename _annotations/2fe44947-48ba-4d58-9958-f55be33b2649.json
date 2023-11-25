@@ -4,19 +4,20 @@ order: 5
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Bagh Singh wrote to the Maharajah that Louis was approaching a second time and had ",
-            "purpose": "commenting",
+            "created": "2023-11-25T10:42:25.169Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-25T10:42:25.169Z"
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Bagh Singh wrote to the Maharajah that Louis was approaching a second time and had "
         }
     ],
+    "id": "2fe44947-48ba-4d58-9958-f55be33b2649.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -29,9 +30,8 @@ order: 5
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=190.11349487304688,5285.46728515625,3426.182159423828,1027.10498046875"
+            "value": "xywh=190.11349487304688,5307.95849609375,3396.193878173828,1004.61376953125"
         }
     },
-    "id": "2fe44947-48ba-4d58-9958-f55be33b2649.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
