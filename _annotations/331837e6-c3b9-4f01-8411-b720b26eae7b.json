@@ -4,19 +4,20 @@ order: 4
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "In Sumbut 1859 he married for the 6[th] time, Jey Kour, daughter of Kurm Singh Rulah Walah. ",
-            "purpose": "commenting",
+            "created": "2023-11-25T10:41:54.032Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-25T10:41:54.032Z"
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "In Sumbut 1859 he married for the 6[th] time, Jey Kour, daughter of Kurm Singh Rulah Walah. "
         }
     ],
+    "id": "331837e6-c3b9-4f01-8411-b720b26eae7b.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -29,9 +30,8 @@ order: 4
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=190.11349487304688,4273.3564453125,3418.685089111328,1004.61376953125"
+            "value": "xywh=190.11349487304688,4258.3623046875,3388.696563720703,1019.60791015625"
         }
     },
-    "id": "331837e6-c3b9-4f01-8411-b720b26eae7b.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
