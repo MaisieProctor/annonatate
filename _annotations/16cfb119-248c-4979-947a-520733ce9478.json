@@ -4,20 +4,27 @@ order: 1
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "35. \nand accepted. Leaving Sook Das Singh Kaleeka, Hugaree Bukht Singh with a large force under the fort, Umr Singh returned to Putteealah. Sook Chein Singh ",
-            "purpose": "commenting",
+            "created": "2023-11-18T15:58:45.697Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-18T15:58:45.697Z"
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "35. \nand accepted. Leaving Sook Das Singh Kaleeka, Huzaree Bukht Singh with a large force under the fort, Umr Singh returned to Putteealah. Sook Chein Singh ",
+            "modified": "2023-11-25T12:23:30.175Z"
         }
     ],
+    "id": "16cfb119-248c-4979-947a-520733ce9478.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=144.47633361816406,342.9930725097656,3336.216781616211,1510.6690368652344"
+        },
         "source": {
             "partOf": {
                 "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
@@ -25,13 +32,7 @@ order: 1
             },
             "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page40",
             "type": "Canvas"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=144.47633361816406,342.9930725097656,3336.216781616211,1510.6690368652344"
         }
     },
-    "id": "16cfb119-248c-4979-947a-520733ce9478.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
