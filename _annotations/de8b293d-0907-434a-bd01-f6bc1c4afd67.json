@@ -4,19 +4,20 @@ order: 2
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "and marched to Umballah and Shahabah taking presents from the Sikhs. He laid seize to Nadayu Ghur which was defended by Kour Kissen of Nahun. 400 was killed on both sides. Futteh Singh Kole Walah, one of ",
-            "purpose": "commenting",
+            "created": "2023-11-25T11:56:46.216Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2023-11-25T11:56:46.216Z"
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "and marched to Umballah and Shahabah taking presents from the Sikhs. He laid seize to Nadayu Ghur which was defended by Kour Kissen of Nahun. 400 was killed on both sides. Futteh Singh Kole Walah, one of "
         }
     ],
+    "id": "de8b293d-0907-434a-bd01-f6bc1c4afd67.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -29,9 +30,8 @@ order: 2
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1356.1695556640625,1926.7589111328125,3336.2166748046875,1491.9261474609375"
+            "value": "xywh=1281.1983642578125,1926.7589111328125,3411.1878662109375,1506.9205322265625"
         }
     },
-    "id": "de8b293d-0907-434a-bd01-f6bc1c4afd67.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
