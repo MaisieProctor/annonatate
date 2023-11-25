@@ -1,0 +1,38 @@
+---
+canvas: "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page149"
+order: 2
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Huzaree, an old and faithful servant of the Maharajah\u2019s, Killadar of Putteealah, secretly joined the Ranee\u2019s party and sent Jewala Singh to her at AnurGhur. Thro\u2019 him the Ranee entered into a correspondence with the ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2023-11-25T10:46:06.278Z",
+            "modified": "2023-11-25T10:47:22.411Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/Manchester~91~1~444004~286491/canvas/c1/page149",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1348.67236328125,1559.4002685546875,3358.7080078125,1536.9088134765625"
+        }
+    },
+    "id": "9c318d81-7b1e-468e-96fa-b4e89c54891a.json",
+    "motivation": "commenting"
+}
