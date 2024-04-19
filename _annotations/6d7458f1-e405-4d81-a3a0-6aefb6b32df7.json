@@ -1,0 +1,32 @@
+---
+canvas: "https://www.digitalexhibitions.manchester.ac.uk/iiif/2384/info.json"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "A WIFE OR DAUGHTER OF A MUGHAL EMPEROR\u200b",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2024-04-19T12:37:02.236Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://www.digitalexhibitions.manchester.ac.uk/iiif/2384/info.json",
+            "type": "image"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><ellipse cx=\"795.9425354003906\" cy=\"1277.153564453125\" rx=\"185.39328002929688\" ry=\"222.846435546875\"></ellipse></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "6d7458f1-e405-4d81-a3a0-6aefb6b32df7.json",
+    "motivation": "commenting"
+}
