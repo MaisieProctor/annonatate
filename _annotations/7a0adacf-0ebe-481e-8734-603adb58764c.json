@@ -3,31 +3,31 @@ canvas: "https://www.digitalexhibitions.manchester.ac.uk/iiif/2381/info.json"
 order: 2
 ---
 {
-    "type": "Annotation",
+    "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Ranjit Singh",
-            "purpose": "commenting",
+            "created": "2024-04-19T12:30:13.034Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2024-04-19T12:30:13.034Z",
-            "modified": "2024-04-19T12:30:14.551Z"
+            "modified": "2024-04-19T12:33:43.851Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Maharajah Ranjit Singh"
         }
     ],
+    "id": "7a0adacf-0ebe-481e-8734-603adb58764c.json",
+    "motivation": "commenting",
     "target": {
-        "source": {
-            "id": "https://www.digitalexhibitions.manchester.ac.uk/iiif/2381/info.json",
-            "type": "image"
-        },
         "selector": {
             "type": "SvgSelector",
             "value": "<svg><ellipse cx=\"765.3558044433594\" cy=\"1251.24853515625\" rx=\"177.90261840820312\" ry=\"237.515625\"></ellipse></svg>"
+        },
+        "source": {
+            "id": "https://www.digitalexhibitions.manchester.ac.uk/iiif/2381/info.json",
+            "type": "image"
         }
     },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "7a0adacf-0ebe-481e-8734-603adb58764c.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
