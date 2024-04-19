@@ -3,31 +3,31 @@ canvas: "https://www.digitalexhibitions.manchester.ac.uk/iiif/2381/info.json"
 order: 3
 ---
 {
-    "type": "Annotation",
+    "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Figure 3 ",
-            "purpose": "commenting",
+            "created": "2024-04-19T12:31:33.606Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2024-04-19T12:31:33.606Z",
-            "modified": "2024-04-19T12:31:34.613Z"
+            "modified": "2024-04-19T12:33:58.421Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "EMPEROR AKBAR\u200b"
         }
     ],
+    "id": "b642633c-7aa1-4c46-a3e4-04da9e8f01a9.json",
+    "motivation": "commenting",
     "target": {
-        "source": {
-            "id": "https://www.digitalexhibitions.manchester.ac.uk/iiif/2381/info.json",
-            "type": "image"
-        },
         "selector": {
             "type": "SvgSelector",
             "value": "<svg><ellipse cx=\"1216.6666870117188\" cy=\"1238.7641296386719\" rx=\"125.46820068359375\" ry=\"227.52810668945312\"></ellipse></svg>"
+        },
+        "source": {
+            "id": "https://www.digitalexhibitions.manchester.ac.uk/iiif/2381/info.json",
+            "type": "image"
         }
     },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "b642633c-7aa1-4c46-a3e4-04da9e8f01a9.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
