@@ -3,20 +3,22 @@ canvas: "https://www.digitalexhibitions.manchester.ac.uk/iiif/2381/info.json"
 order: 1
 ---
 {
-    "type": "Annotation",
+    "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Taj Mahal",
-            "purpose": "commenting",
+            "created": "2024-04-19T12:29:41.482Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2024-04-19T12:29:41.482Z",
-            "modified": "2024-04-19T12:29:42.995Z"
+            "modified": "2024-04-19T12:29:42.995Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Taj Mahal"
         }
     ],
+    "id": "5a93c4eb-b717-453d-b851-ce42f22ebb79.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "id": "https://www.digitalexhibitions.manchester.ac.uk/iiif/2381/info.json",
@@ -24,10 +26,8 @@ order: 1
         },
         "selector": {
             "type": "SvgSelector",
-            "value": "<svg><ellipse cx=\"361.7977066040039\" cy=\"1235.9551086425781\" rx=\"102.05992889404297\" ry=\"222.22225952148438\"></ellipse></svg>"
+            "value": "<svg><ellipse cx=\"364.6067123413086\" cy=\"1235.9551086425781\" rx=\"104.86893463134766\" ry=\"222.22225952148438\"></ellipse></svg>"
         }
     },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "5a93c4eb-b717-453d-b851-ce42f22ebb79.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
