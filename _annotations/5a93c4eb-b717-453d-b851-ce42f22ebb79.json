@@ -11,22 +11,22 @@ order: 1
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "modified": "2024-04-19T12:29:42.995Z",
+            "modified": "2024-04-19T12:33:21.790Z",
             "purpose": "commenting",
             "type": "TextualBody",
-            "value": "Taj Mahal"
+            "value": "MUMTAZ MAHAL (born ARJUMAND BANU BEGUM) aka TAJ MAHAL BEGUM"
         }
     ],
     "id": "5a93c4eb-b717-453d-b851-ce42f22ebb79.json",
     "motivation": "commenting",
     "target": {
-        "source": {
-            "id": "https://www.digitalexhibitions.manchester.ac.uk/iiif/2381/info.json",
-            "type": "image"
-        },
         "selector": {
             "type": "SvgSelector",
             "value": "<svg><ellipse cx=\"364.6067123413086\" cy=\"1235.9551086425781\" rx=\"104.86893463134766\" ry=\"222.22225952148438\"></ellipse></svg>"
+        },
+        "source": {
+            "id": "https://www.digitalexhibitions.manchester.ac.uk/iiif/2381/info.json",
+            "type": "image"
         }
     },
     "type": "Annotation"
