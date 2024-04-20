@@ -1,0 +1,32 @@
+---
+canvas: "https://www.digitalexhibitions.manchester.ac.uk/iiif/2387/info.json"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "EMPEROR AKBAR",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2024-04-20T08:38:37.466Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://www.digitalexhibitions.manchester.ac.uk/iiif/2387/info.json",
+            "type": "image"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><ellipse cx=\"378.3395690917969\" cy=\"1202.2472534179688\" rx=\"119.85018920898438\" ry=\"227.21600341796875\"></ellipse></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "5a76286e-6620-48db-8bb2-a0a9b0de5e16.json",
+    "motivation": "commenting"
+}
