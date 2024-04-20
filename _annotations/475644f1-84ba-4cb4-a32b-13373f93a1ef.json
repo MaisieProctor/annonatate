@@ -3,30 +3,31 @@ canvas: "https://www.digitalexhibitions.manchester.ac.uk/iiif/2384/info.json"
 order: 1
 ---
 {
-    "type": "Annotation",
+    "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "EMPEROR JAHANGIR\u200b",
-            "purpose": "commenting",
+            "created": "2024-04-19T12:34:53.516Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2024-04-19T12:34:53.516Z"
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Emperor Jahangir (1569-1627) \n\nThe fourth Mughal Emperor (r. 1605-1627). The only surviving son of Emperor Akbar and empress Mariam-uz-Zamani. Jahangir was responsible for the execution of Guru Arjan Dev (1563-1606) in 1606, the first Sikh martyr and compiler of the Guru Granth Sahib. \n",
+            "modified": "2024-04-20T10:50:31.651Z"
         }
     ],
+    "id": "475644f1-84ba-4cb4-a32b-13373f93a1ef.json",
+    "motivation": "commenting",
     "target": {
-        "source": {
-            "id": "https://www.digitalexhibitions.manchester.ac.uk/iiif/2384/info.json",
-            "type": "image"
-        },
         "selector": {
             "type": "SvgSelector",
             "value": "<svg><ellipse cx=\"368.1959991455078\" cy=\"1249.68798828125\" rx=\"109.39445495605469\" ry=\"224.7191162109375\"></ellipse></svg>"
+        },
+        "source": {
+            "id": "https://www.digitalexhibitions.manchester.ac.uk/iiif/2384/info.json",
+            "type": "image"
         }
     },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "475644f1-84ba-4cb4-a32b-13373f93a1ef.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
