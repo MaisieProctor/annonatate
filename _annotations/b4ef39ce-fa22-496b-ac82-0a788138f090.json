@@ -1,0 +1,32 @@
+---
+canvas: "https://www.digitalexhibitions.manchester.ac.uk/iiif/2387/info.json"
+order: 3
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "EMPEROR SHAH JAHAN\u200b",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2024-04-20T08:39:17.775Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://www.digitalexhibitions.manchester.ac.uk/iiif/2387/info.json",
+            "type": "image"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><ellipse cx=\"1221.9725341796875\" cy=\"1208.8015441894531\" rx=\"113.2958984375\" ry=\"221.91012573242188\"></ellipse></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b4ef39ce-fa22-496b-ac82-0a788138f090.json",
+    "motivation": "commenting"
+}
