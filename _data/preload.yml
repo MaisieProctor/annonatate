@@ -1,4 +1,10 @@
 images:
+- added: '2024-04-20 10:58:32.969743'
+  iiif: true
+  thumbnail: https://www.digitalexhibitions.manchester.ac.uk/iiif/1734/full/120,/0/default.jpg
+  title: ''
+  url: https://www.digitalexhibitions.manchester.ac.uk/iiif/1734/info.json
+  user: MaisieProctor
 - added: '2024-04-19 12:24:23.201094'
   iiif: true
   thumbnail: https://www.digitalexhibitions.manchester.ac.uk/iiif/2387/full/120,/0/default.jpg
