@@ -1,0 +1,34 @@
+---
+canvas: "https://www.digitalexhibitions.manchester.ac.uk/iiif/1734/info.json"
+order: 5
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Heron feathers ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2024-04-20T11:11:04.471Z",
+            "modified": "2024-04-20T11:11:06.613Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://www.digitalexhibitions.manchester.ac.uk/iiif/1734/info.json",
+            "type": "image"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=152.37554931640625,51.55879211425781,333.69207763671875,186.47494506835938"
+        }
+    },
+    "id": "4a8c8581-dc90-4fce-8e0d-6e22a3d9f8d9.json",
+    "motivation": "commenting"
+}
