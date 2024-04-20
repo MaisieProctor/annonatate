@@ -4,20 +4,21 @@ order: 1
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Chain mail to protect the neck and shoulders. ",
-            "purpose": "commenting",
+            "created": "2024-04-20T11:05:47.930Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2024-04-20T11:05:47.930Z",
-            "modified": "2024-04-20T11:05:53.202Z"
+            "modified": "2024-04-20T11:05:53.202Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Chain mail to protect the neck and shoulders. "
         }
     ],
+    "id": "15840085-7990-4fe7-bbe9-de3131a6fd2a.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "id": "https://www.digitalexhibitions.manchester.ac.uk/iiif/1734/info.json",
@@ -26,9 +27,8 @@ order: 1
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=233.69549560546875,678.6624145507812,81.31991577148438,246.76385498046875"
+            "value": "xywh=233.69549560546875,678.6624145507812,61.69091796875,189.9801025390625"
         }
     },
-    "id": "15840085-7990-4fe7-bbe9-de3131a6fd2a.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
