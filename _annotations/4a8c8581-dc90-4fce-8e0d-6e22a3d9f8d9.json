@@ -20,14 +20,14 @@ order: 5
     "id": "4a8c8581-dc90-4fce-8e0d-6e22a3d9f8d9.json",
     "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=174.18357849121094,48.404109954833984,302.84657287597656,190.33066177368164"
+        },
         "source": {
             "id": "https://www.digitalexhibitions.manchester.ac.uk/iiif/1734/info.json",
             "type": "image"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=174.18357849121094,48.404109954833984,302.84657287597656,190.33066177368164"
         }
     },
     "type": "Annotation"
