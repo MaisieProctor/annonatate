@@ -3,30 +3,31 @@ canvas: "https://www.digitalexhibitions.manchester.ac.uk/iiif/2387/info.json"
 order: 1
 ---
 {
-    "type": "Annotation",
+    "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "EMPEROR AURANGZEB\u200b",
-            "purpose": "commenting",
+            "created": "2024-04-19T12:38:43.567Z",
             "creator": {
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "created": "2024-04-19T12:38:43.567Z"
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Emperor Aurangzeb (1618-1707) \n\nThe sixth Mughal emperor (r. 1658-1707). A maligned figure in Sikh history, Aurangzeb executed Guru Tegh Bahadur (1621-1675) for refusing to embrace Islam. \n",
+            "modified": "2024-04-20T10:51:50.932Z"
         }
     ],
+    "id": "43f4e91e-9e45-40e1-8464-358696456fd5.json",
+    "motivation": "commenting",
     "target": {
-        "source": {
-            "id": "https://www.digitalexhibitions.manchester.ac.uk/iiif/2387/info.json",
-            "type": "image"
-        },
         "selector": {
             "type": "SvgSelector",
             "value": "<svg><ellipse cx=\"794.0698547363281\" cy=\"1221.5980834960938\" rx=\"179.77529907226562\" ry=\"217.85272216796875\"></ellipse></svg>"
+        },
+        "source": {
+            "id": "https://www.digitalexhibitions.manchester.ac.uk/iiif/2387/info.json",
+            "type": "image"
         }
     },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "43f4e91e-9e45-40e1-8464-358696456fd5.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
