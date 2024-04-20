@@ -5,18 +5,6 @@
     "type": "storyboardlist",
     "items": [
         {
-            "board": "<iiif-storyboard annotationurl='https://maisieproctor.github.io/annonatate/annotations/2384-list.json'></iiif-storyboard>",
-            "title": "",
-            "description": "",
-            "thumbnail": ""
-        },
-        {
-            "board": "<iiif-storyboard annotationurl='https://maisieproctor.github.io/annonatate/annotations/2387-list.json'></iiif-storyboard>",
-            "title": "",
-            "description": "",
-            "thumbnail": ""
-        },
-        {
             "board": "<iiif-storyboard annotationurl='https://maisieproctor.github.io/annonatate/annotations/2381-list.json'></iiif-storyboard>",
             "title": "",
             "description": "",
