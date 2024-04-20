@@ -1,0 +1,34 @@
+---
+canvas: "https://www.digitalexhibitions.manchester.ac.uk/iiif/1734/info.json"
+order: 4
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Iridescent beetle-wing cases for decoration",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2024-04-20T11:08:43.559Z",
+            "modified": "2024-04-20T11:09:26.754Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://www.digitalexhibitions.manchester.ac.uk/iiif/1734/info.json",
+            "type": "image"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=301.2718505859375,284.2504577636719,51.81817626953125,40.606048583984375"
+        }
+    },
+    "id": "08888038-0556-46e4-b526-d702f576b844.json",
+    "motivation": "commenting"
+}
