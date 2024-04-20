@@ -1,0 +1,14 @@
+---
+---
+{
+    "label": "CasketAndLid",
+    "type": "storyboardlist",
+    "items": [
+        {
+            "board": "<iiif-storyboard annotationurl='https://maisieproctor.github.io/annonatate/annotations/2381-list.json'></iiif-storyboard>",
+            "title": "",
+            "description": "",
+            "thumbnail": ""
+        }
+    ]
+}
