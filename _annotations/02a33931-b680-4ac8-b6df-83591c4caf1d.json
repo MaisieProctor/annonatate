@@ -11,22 +11,22 @@ order: 4
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "modified": "2024-05-31T15:23:15.773Z",
+            "modified": "2024-05-31T15:37:16.215Z",
             "purpose": "commenting",
             "type": "TextualBody",
-            "value": "Nose guard "
+            "value": "Adjustable nose guard "
         }
     ],
     "id": "02a33931-b680-4ac8-b6df-83591c4caf1d.json",
     "motivation": "commenting",
     "target": {
-        "source": {
-            "id": "https://www.digitalexhibitions.manchester.ac.uk/cantaloupe/iiif/2/exhibitions__sikh__1910_15_3.tif/info.json",
-            "type": "image"
-        },
         "selector": {
             "type": "SvgSelector",
             "value": "<svg><polygon points=\"2407.2,5315.9 2468,5246.9 2461.2,5212.3 2506.6,5205 2515.7,5186.8 2508.4,5155.9 2533.9,5157.7 2552.1,5130.5 2533.9,5097.7 2559.3,5070.5 2557.5,5041.4 2527.7,5003.9 2505.9,5000.2 2496.8,5014.8 2517.7,5025.7 2512.1,5037.7 2481.2,5035.9 2452.1,5001.4 2435.7,4954.1 2417.5,4954.1 2374.5,4297.4 2307.2,4299.6 2341.2,4950.5 2341.2,4959.6 2324.8,4970.5 2314.7,5021.8 2291.1,5046.3 2261.2,5052.3 2259.3,5037.7 2273.8,5026.3 2264.7,5011.8 2238.3,5029.9 2224.7,5057.2 2230.3,5085 2239.3,5101.4 2264.8,5105.6 2247.8,5128.7 2247.8,5152.9 2267.8,5169.3 2282.9,5173 2307.8,5167.4 2298.7,5192.9 2306,5214.7 2316.9,5225.6 2333.3,5232.9 2347.1,5233 2351.5,5251.1\"></polygon></svg>"
+        },
+        "source": {
+            "id": "https://www.digitalexhibitions.manchester.ac.uk/cantaloupe/iiif/2/exhibitions__sikh__1910_15_3.tif/info.json",
+            "type": "image"
         }
     },
     "type": "Annotation"
