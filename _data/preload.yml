@@ -1,4 +1,10 @@
 images:
+- added: '2024-05-31 14:06:53.197197'
+  iiif: true
+  thumbnail: https://www.digitalexhibitions.manchester.ac.uk/cantaloupe/iiif/2/exhibitions__sikh__1910_15_3.tif/full/120,/0/default.jpg
+  title: ''
+  url: https://www.digitalexhibitions.manchester.ac.uk/cantaloupe/iiif/2/exhibitions__sikh__1910_15_3.tif/info.json
+  user: MaisieProctor
 - added: '2024-04-20 10:58:32.969743'
   iiif: true
   thumbnail: https://www.digitalexhibitions.manchester.ac.uk/iiif/1734/full/120,/0/default.jpg
