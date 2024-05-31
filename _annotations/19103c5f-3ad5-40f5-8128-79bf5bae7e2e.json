@@ -1,0 +1,33 @@
+---
+canvas: "https://www.digitalexhibitions.manchester.ac.uk/cantaloupe/iiif/2/exhibitions__sikh__1910_15_3.tif/info.json"
+order: 2
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Iridescent beetle-wing cases for decoration",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2024-05-31T14:25:49.572Z",
+            "modified": "2024-05-31T14:26:12.610Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://www.digitalexhibitions.manchester.ac.uk/cantaloupe/iiif/2/exhibitions__sikh__1910_15_3.tif/info.json",
+            "type": "image"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"2086.4,2004.4 2143.2,2215.5 2403,2204.1 2427.4,1997.9 2268.2,1999.5\"></polygon></svg>"
+        }
+    },
+    "id": "19103c5f-3ad5-40f5-8128-79bf5bae7e2e.json",
+    "motivation": "commenting"
+}
