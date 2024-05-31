@@ -11,22 +11,22 @@ order: 6
                 "id": "MaisieProctor",
                 "name": "MaisieProctor"
             },
-            "modified": "2024-05-31T15:41:35.115Z",
+            "modified": "2024-05-31T15:44:05.165Z",
             "purpose": "commenting",
             "type": "TextualBody",
-            "value": "Decorative gold inlay with floral design"
+            "value": "Decorative gold inlay with pipal tree floral design"
         }
     ],
     "id": "6d8c813b-ba4e-4de1-8a7a-c080033e035a.json",
     "motivation": "commenting",
     "target": {
-        "source": {
-            "id": "https://www.digitalexhibitions.manchester.ac.uk/cantaloupe/iiif/2/exhibitions__sikh__1910_15_3.tif/info.json",
-            "type": "image"
-        },
         "selector": {
             "type": "SvgSelector",
             "value": "<svg><polygon points=\"1515.3,4417.2 1528.3,4382 1633.9,4100.5 2263.9,4144.3 2806.3,4139.5 2986.5,4110.2 3058,4076.1 3189.5,4397.7 3109.4,4435 2902.1,4482.1 2699.1,4498.3 2393.8,4495.1 2241.2,4487 1974.9,4469.1 1767,4459.4 1575.4,4433.4\"></polygon></svg>"
+        },
+        "source": {
+            "id": "https://www.digitalexhibitions.manchester.ac.uk/cantaloupe/iiif/2/exhibitions__sikh__1910_15_3.tif/info.json",
+            "type": "image"
         }
     },
     "type": "Annotation"
