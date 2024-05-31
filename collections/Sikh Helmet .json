@@ -21,6 +21,12 @@
             "title": "",
             "description": "",
             "thumbnail": ""
+        },
+        {
+            "board": "<iiif-storyboard annotationurl='https://maisieproctor.github.io/annonatate/annotations/2-exhibitions-sikh-1910-15-3-tif-list.json'></iiif-storyboard>",
+            "title": "",
+            "description": "",
+            "thumbnail": ""
         }
     ]
 }
