@@ -1,0 +1,33 @@
+---
+canvas: "https://www.digitalexhibitions.manchester.ac.uk/cantaloupe/iiif/2/exhibitions__sikh__1910_15_3.tif/info.json"
+order: 3
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Plume holder",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MaisieProctor",
+                "name": "MaisieProctor"
+            },
+            "created": "2024-05-31T15:20:44.717Z",
+            "modified": "2024-05-31T15:20:48.628Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://www.digitalexhibitions.manchester.ac.uk/cantaloupe/iiif/2/exhibitions__sikh__1910_15_3.tif/info.json",
+            "type": "image"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1908.7742919921875,3935.192626953125 1922.8477783203125,3957.926513671875 1952.618408203125,3929.238525390625 2012.700927734375,3669.421875 2004.5816650390625,3653.183349609375 2014.3248291015625,3633.697265625 2040.306396484375,3544.38525390625 2048.42578125,3502.1650390625 2007.829345703125,3477.807373046875 1973.7283935546875,3484.302734375 1955.8660888671875,3502.1650390625 1957.4898681640625,3640.192626953125 1959.11376953125,3645.064208984375 1946.1229248046875,3659.678955078125 1929.8843994140625,3797.706298828125\"></polygon></svg>"
+        }
+    },
+    "id": "cd699b0e-ab39-4c5e-84a9-a907e7afa74b.json",
+    "motivation": "commenting"
+}
